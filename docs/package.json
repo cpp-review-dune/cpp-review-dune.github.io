@@ -1,0 +1,20 @@
+{
+  "name": "cpp-review-dune.github.io",
+  "version": "0.0.1",
+  "description": "Un repositorio donde compartir notas acerca de C++ con pdfs escritos en LaTeX.",
+  "main": "index.js",
+  "authors": {
+    "name": "Oromion",
+    "email": "caznaranl@uni.pe"
+  },
+  "repository": "https://github.com/cpp-review-dune/cpp-review-dune.github.io/cpp-review-dune.github.io",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@maginapp/vuepress-plugin-katex": "^1.0.11",
+    "vuepress": "^1.5.3"
+  }
+}
