@@ -12,19 +12,7 @@ sidebar: auto
 6. [Variables and Constants](6-variables/README.md)
 7. [Arrays and Vectors](7-arrays/README.md)
 8. [Statements and Operators](8-statements/README.md)
-## Controlling Program Flow
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/uAcEHcHxAvTUNbWwZ7nsZ1?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/uAcEHcHxAvTUNbWwZ7nsZ1?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
+9. [Controlling Program Flow](9-controlling/README.md)
 
 ## Characters and Strings
 
