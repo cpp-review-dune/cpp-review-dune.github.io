@@ -13,27 +13,15 @@ sidebar: auto
 7. [Arrays and Vectors](7-arrays/README.md)
 8. [Statements and Operators](8-statements/README.md)
 9. [Controlling Program Flow](9-controlling/README.md)
-
-## Characters and Strings
-
-## Functions
-
-## Pointers and References
-
-## 13. OOP - Classes and Objects
-
-## 14. Operator Overloading
-
-## 15. Inheritance
-
-## 16. Polymorphism
-
-## 17. Smart Pointers
-
-## 18. Exception Handling
-
-## 19. IO and Streams
-
-## 20. The Standard Template Library (STL)
-
-## 21. Bonus Material and Source Code
+10. [Characters and Strings](10-characters/README.md)
+11. [Functions](11-functions/README.md)
+12. [Pointers and References](12-pointers/README.md)
+13. [OOP - Classes and Objects](13-oop/README.md)
+14. [Operator Overloading](14-operator/README.md)
+15. [Inheritance](15-inheritance/README.md)
+16. [Polymorphism](16-polymorphism/README.md)
+17. [Smart Pointers](17-smart/README.md)
+18. [Exception Handling](18-exception/README.md)
+19. [IO and Streams](19-io/README.md)
+20. [The Standard Template Library (STL)](20-stl/README.md)
+21. [Bonus Material and Source Code](21-bonus/README.md)

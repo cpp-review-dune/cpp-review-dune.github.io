@@ -2,100 +2,88 @@
 sidebar: auto
 ---
 
-# 9. Controlling Program Flow
+# 15. Inheritance
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/uAcEHcHxAvTUNbWwZ7nsZ1?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/gWmWa2QyoWW4RWMVBqZLY4?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/kHZi9FHiESe8cfWZyvgBUb?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/dSyPJPy47uBnfXQ3HN23zq?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/hxaSM7mcWjpspmWQpdxr4B?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/uFncWHRbJNCH741bmfe2Us?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/hCGbzcv5H3TnXUYwsF6PAM?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/jNvxh1VtbYgxsimRknbHmt?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/cnrB77U93NoaZwJAUasDQz?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/87e2GtSPWu5Lnhn91RToan?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/fFADnGESMb7eCfDisBeaNF?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/9uUD4489qy9yMx7aDgWrvz?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/mQryNRTSJjVbXY5AcsWUyF?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/3rf9Sg5wTaT6x4zicf5Cwr?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/q8HPqM4PEy1S4JwwWDcNgv?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/dbyFEJRurTs4KYHS51vUDh?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/eSHo6y5Gfnrvm1ZAxEbAJ3?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/qypTbgVXkv71N548xLUb14?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/nnHUypmJCTGTCUrzyKxykn?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/gwr6ZEi8KRBP7YoePzucXw?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/cpXRqyzit2pZsUynFQUkPd?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/69kTcq3RdapgekEPKTtzeU?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/hHBqX76oScKXwXvwQLmaaU?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/tsHw7FuEmQjNmPs21tD4m1?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/1dgb8Ljp9HqvCy2qkUFo1J?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/j1jry5HpQjyAofGfvv9QPs?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/oGw1bPDmZZ7YXtkQc1aVNB?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/qTQZJTdSxpbzsZKJ6GzMsZ?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/4ZFrXdhBTVLAnJQhArXTaj?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/i7nG5gCFU8rPyCZo5M5DkG?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
