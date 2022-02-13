@@ -4,7 +4,7 @@ sidebar: auto
 
 # Reuniones del grupo de Dinámica de fluidos computacional (CFD)
 
-### Sesión $1$ CFD $02/04/2021$
+### Sesión 1 CFD 02/04/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -12,7 +12,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $2$ CFD $09/04/2021$
+### Sesión 2 CFD 09/04/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -20,7 +20,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $3$ CFD $16/04/2021$
+### Sesión 3 CFD 16/04/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -28,7 +28,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $4$ CFD $23/04/2021$
+### Sesión 4 CFD 23/04/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -36,7 +36,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $5$ CFD $30/04/2021$
+### Sesión 5 CFD 30/04/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -44,7 +44,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $6$ CFD $07/05/2021$
+### Sesión 6 CFD 07/05/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -52,7 +52,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $7$ CFD $14/05/2021$
+### Sesión 7 CFD 14/05/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -60,7 +60,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $8$ CFD $21/05/2021$
+### Sesión 8 CFD 21/05/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -68,7 +68,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $9$ CFD $28/05/2021$
+### Sesión 9 CFD 28/05/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -76,7 +76,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $10$ CFD $04/06/2021$
+### Sesión 10 CFD 04/06/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -84,7 +84,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $11$ CFD $18/06/2021$
+### Sesión 11 CFD 18/06/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -92,7 +92,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $12$ CFD $25/06/2021$
+### Sesión 12 CFD 25/06/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -100,7 +100,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $13$ CFD $02/07/2021$
+### Sesión 13 CFD 02/07/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -108,7 +108,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $14$ CFD $09/07/2021$
+### Sesión 14 CFD 09/07/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -116,7 +116,7 @@ sidebar: auto
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Sesión $15$ CFD $23/07/2021$
+### Sesión 15 CFD 23/07/2021
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"

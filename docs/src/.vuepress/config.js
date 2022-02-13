@@ -30,12 +30,12 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    repo: "",
+    repo: "cpp-review-dune/cpp-review-dune.github.io",
     editLinks: false,
-    docsDir: "",
-    editLinkText: "",
+    docsDir: "docs",
+    editLinkText: "Edita esta página en GitHub",
     lastUpdated: false,
-    nav: [
+    navbar: [
       {
         text: "Tutoriales",
         link: "/tutorial/",
@@ -50,7 +50,7 @@ module.exports = {
       },
       {
         text: "Enlaces de interés",
-        items: [
+        children: [
           {
             text: "Grupo de Telegram",
             link: "https://t.me/joinchat/OsfYP1xnFlxjN2Ix",
@@ -66,10 +66,6 @@ module.exports = {
           {
             text: "Numerical Simulation of Transport Processes in Porous Media",
             link: "https://conan.iwr.uni-heidelberg.de/old-site/teaching/numpormed_ws2009",
-          },
-          {
-            text: "GitHub",
-            link: "https://github.com/cpp-review-dune",
           },
         ],
       },
