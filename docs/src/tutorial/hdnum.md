@@ -1,4 +1,4 @@
-# [HDNUM DOCS](https://parcomp-git.iwr.uni-heidelberg.de/Teaching/hdnum/-/tree/practical)
+# [HDNUM docs](https://parcomp-git.iwr.uni-heidelberg.de/Teaching/hdnum/-/tree/practical)
 
 - [Doxygen docs](https://cpp-review-dune.github.io/files/hdnum)
 - [Paraview docs](https://cpp-review-dune.github.io/files/docs-paraview-org-en-latest.pdf)

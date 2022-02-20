@@ -1,3 +1,9 @@
+# Using Gitpod
+
+$$
+\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
+$$
+
 [por qué usar gitpod]()
 
 | Lectura | Tópico                  |    Diapositivas    |          Tutoriales           |     Ejercicios      |  Soluciones   | Lecturas sugereridas |
@@ -103,9 +109,3 @@ Nuestro plan consiste en lo siguiente:
   src="https://diode.zone/videos/embed/338bd9ff-61fd-4152-b01b-7a41d88ed06c?title=0&warningTitle=0"
   frameborder="0" allowfullscreen>
 </iframe>
-
-##### Using Gitpod
-
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
