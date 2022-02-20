@@ -2,8 +2,7 @@ name: Deploy pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths:
       - docs/**/*
 
@@ -26,6 +25,29 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: cd docs && yarn install && yarn build
+
+      - name: Download artifact
+        uses: dawidd6/action-download-artifact@v2
+        with:
+          github_token: ${{secrets.GITHUB_TOKEN}}
+          workflow: hdnum_docs.yml
+          name: HDNUM_DOCS-artifact
+
+      - name: "Untar files"
+        run: |
+          tar -I zstd -xvf HDNUM_DOCS.tar.zst
+          OUTPUT_DIR=docs/src/.vuepress/dist/files
+          mkdir -p $OUTPUT_DIR
+          wget https://docs.paraview.org/_/downloads/en/latest/pdf/ -O $OUTPUT_DIR/docs-paraview-org-en-latest.pdf
+          wget https://dumux.org/docs/handbook/master/dumux-handbook.pdf -O $OUTPUT_DIR/dumux-handbook.pdf
+          wget https://elib.uni-stuttgart.de/bitstream/11682/9377/1/simtech-tr2017-1_coupling-dumux-and-pdelab-to-investigate-evaporation.pdf -O $OUTPUT_DIR/simtech-tr2017-1_coupling-dumux-and-pdelab-to-investigate-evaporation.pdf
+          mv doc/html $OUTPUT_DIR/hdnum
+          mv tutorial/hdnum.pdf $OUTPUT_DIR
+          mv tutorial/hdnum-tutorial-article.pdf $OUTPUT_DIR
+          mv tutorial/hdnum-tutorial-beamer.pdf $OUTPUT_DIR
+          mv doc/latex/refman.pdf $OUTPUT_DIR
+          mv programmierkurs/programmierkurs*.pdf $OUTPUT_DIR
+          mv src/TeX/*.pdf $OUTPUT_DIR
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
