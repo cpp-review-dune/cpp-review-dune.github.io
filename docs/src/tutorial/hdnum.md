@@ -1,0 +1,12 @@
+# [HDNUM DOCS](https://parcomp-git.iwr.uni-heidelberg.de/Teaching/hdnum/-/tree/practical)
+
+- [Doxygen docs](https://cpp-review-dune.github.io/files/hdnum)
+- [Paraview docs](https://cpp-review-dune.github.io/files/docs-paraview-org-en-latest.pdf)
+- [DuMux handbook](https://cpp-review-dune.github.io/files/dumux-handbook.pdf)
+- [Heidelberger Numerikbibliothek für die Lehre (article)](https://cpp-review-dune.github.io/files/hdnum-tutorial-article.pdf)
+- [Heidelberger Numerikbibliothek für die Lehre (beamer)](https://cpp-review-dune.github.io/files/hdnum-tutorial-beamer.pdf)
+- [HDNUM Heidelberger Numerikbibliothek](https://cpp-review-dune.github.io/files/hdnum.pdf)
+- [Ein kleiner Programmierkurs](https://cpp-review-dune.github.io/files/programmierkurs.pdf)
+- [Ein kleiner Programmierkurs (alt)](https://cpp-review-dune.github.io/files/programmierkurs_alt.pdf)
+- [Heidelberg Educational Numerics Library](https://cpp-review-dune.github.io/files/refman.pdf)
+- [Coupling DuMuX and DUNE-PDELab to investigate evaporation at the interface between Darcy and Navier-Stokes flow](https://cpp-review-dune.github.io/files/simtech-tr2017-1_coupling-dumux-and-pdelab-to-investigate-evaporation.pdf)
