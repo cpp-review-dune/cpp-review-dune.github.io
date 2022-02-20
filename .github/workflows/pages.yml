@@ -47,7 +47,6 @@ jobs:
           mv tutorial/hdnum-tutorial-beamer.pdf $OUTPUT_DIR
           mv doc/latex/refman.pdf $OUTPUT_DIR
           mv programmierkurs/programmierkurs*.pdf $OUTPUT_DIR
-          mv src/TeX/*.pdf $OUTPUT_DIR
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3.8.0
