@@ -1,7 +1,6 @@
 # [HDNUM docs](https://parcomp-git.iwr.uni-heidelberg.de/Teaching/hdnum/-/tree/practical)
 
 - [Doxygen docs](https://cpp-review-dune.github.io/files/hdnum)
-- [Paraview docs](https://cpp-review-dune.github.io/files/docs-paraview-org-en-latest.pdf)
 - [DuMux handbook](https://cpp-review-dune.github.io/files/dumux-handbook.pdf)
 - [Heidelberger Numerikbibliothek für die Lehre (article)](https://cpp-review-dune.github.io/files/hdnum-tutorial-article.pdf)
 - [Heidelberger Numerikbibliothek für die Lehre (beamer)](https://cpp-review-dune.github.io/files/hdnum-tutorial-beamer.pdf)
