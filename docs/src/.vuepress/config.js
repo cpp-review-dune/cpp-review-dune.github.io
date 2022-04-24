@@ -75,7 +75,7 @@ module.exports = {
         {
           title: "Tutoriales",
           collapsable: false,
-          children: ["dune", "hdnum", "using-gitpod", "visualizer"],
+          children: ["dune", "hdnum", "using-gitpod", "visualizer", "fem"],
         },
       ],
     },
