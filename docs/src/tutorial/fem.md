@@ -2,5 +2,22 @@
 
 ## [Minicurso por un profesor de la Universidad de Concepción 🇨🇱](https://sites.google.com/uni.edu.pe/cimmuni-2022/materiales#h.vbmc8ur8scsu)
 
-- [Parte I](https://diode.zone/w/3haEShmV3K6V8GqSKcd7x5)
-- [Parte II](https://diode.zone/w/xjtKnLwPnZZp3tU8eCy592)
+## Parte I
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://diode.zone/videos/embed/3haEShmV3K6V8GqSKcd7x5?title=0&warningTitle=0&peertubeLink=0"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://drive.google.com/file/d/1DtzzcXpcbacklp8dz_gKy0Is3xY4ZKcF/view)
+
+## Parte II 
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://diode.zone/videos/embed/xjtKnLwPnZZp3tU8eCy592?title=0&warningTitle=0&peertubeLink=0"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva]()
