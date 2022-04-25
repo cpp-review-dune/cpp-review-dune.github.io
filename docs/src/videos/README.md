@@ -4,11 +4,15 @@ sidebar: auto
 
 # Vídeos
 
-- [Dinámica de fluidos computacional (CFD)](cfd/README.md)
-- [Zoom](zoom/README.md)
-- [C++ From Beginner to Beyond](cpp/README.md)
-- [Git](git/README.md)
-- [Introducción a Linux](https://www.youtube.com/playlist?list=PL6kQim6ljTJv-hMrOngNbCv6kpQYHfFwC)
+## [Dinámica de fluidos computacional (CFD)](cfd/README.md)
+
+## [Zoom](zoom/README.md)
+
+## [C++ From Beginner to Beyond](cpp/README.md)
+
+## [Git](git/README.md)
+
+## [Introducción a Linux](https://www.youtube.com/playlist?list=PL6kQim6ljTJv-hMrOngNbCv6kpQYHfFwC)
 
 <iframe width="560" height="315"
   src="https://www.youtube-nocookie.com/embed/m5HuDgRj5Bk"
