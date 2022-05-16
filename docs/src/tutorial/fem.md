@@ -12,6 +12,16 @@
 
 - [Diapositiva](https://ecloud.global/s/84bFcWixzacwtMH)
 
+## Sesión 2
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://diode.zone/videos/embed/uYwgv9SX33BBmMZCVv3bFJ?title=0&warningTitle=0&peertubeLink=0"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/GLX9bMH8Q5Ce7Eb)
+
 ## [Minicurso por un profesor de la Universidad de Concepción 🇨🇱](https://sites.google.com/uni.edu.pe/cimmuni-2022/materiales#h.vbmc8ur8scsu)
 
 ### Parte I
