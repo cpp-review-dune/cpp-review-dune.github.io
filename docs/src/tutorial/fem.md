@@ -16,7 +16,7 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/uYwgv9SX33BBmMZCVv3bFJ?title=0&warningTitle=0&peertubeLink=0"
+  src="https://diode.zone/videos/embed/k6TYnvTsWSeeGjmefh4NkY?title=0&warningTitle=0&peertubeLink=0"
   frameborder="0" allowfullscreen>
 </iframe>
 
