@@ -32,6 +32,12 @@
 
 ## Sesión 4
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://diode.zone/videos/embed/87tnkTrgFx4FBSkatavP9c?title=0&warningTitle=0&peertubeLink=0"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 - [Diapositiva](https://ecloud.global/s/sNG8Ky27K98cxXa)
 
 ## [Minicurso por un profesor de la Universidad de Concepción 🇨🇱](https://sites.google.com/uni.edu.pe/cimmuni-2022/materiales#h.vbmc8ur8scsu)
