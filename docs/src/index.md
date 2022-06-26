@@ -12,7 +12,7 @@ actions:
     type: secondary
 features:
   - title: 🎥 en español 🇲🇽 🇨🇴 🇵🇪
-    details: Cada sesión grupal es subido al canal cpp-review-dune de modo no listado, diode.zone está basado en PeerTube.
+    details: Cada sesión grupal es subido al canal cpp-review-dune de modo no listado, diode.zone está basado en PeerTube. Ahora en YouTube, ya que eliminó la cuenta sin alguna explicación.
   - title: Sobre contenedores 🐳
     details: Utilizamos Gitpod como el espacio de trabajo en su plan open source de 100 horas/mes junto con las imágenes, que cuentan con los comandos dune-ctest, duneproject, dunecontrol y dune-git-whitespace-hook fuera de la caja.
   - title: Corre sobre Arch Linux 🐧

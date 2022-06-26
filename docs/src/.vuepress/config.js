@@ -34,7 +34,10 @@ module.exports = {
     editLinks: false,
     docsDir: "docs",
     editLinkText: "Edita esta página en GitHub",
-    lastUpdated: false,
+    lastUpdated: true,
+    lastUpdatedText: "Última actualización",
+    contributors: true,
+    contributorsText: "Contribuidores",
     navbar: [
       {
         text: "Tutoriales",

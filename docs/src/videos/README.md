@@ -4,13 +4,9 @@ sidebar: auto
 
 # Vídeos
 
-### [Dinámica de fluidos computacional (CFD)](cfd/README.md)
-
 ### [Zoom](zoom/README.md)
 
 ### [C++ From Beginner to Beyond](cpp/README.md)
-
-### [Git](git/README.md)
 
 ### [Introducción a Linux](https://www.youtube.com/playlist?list=PL6kQim6ljTJv-hMrOngNbCv6kpQYHfFwC)
 

@@ -101,11 +101,3 @@ Nuestro plan consiste en lo siguiente:
 > **Situación:** No contamos con un ordenador que tenga la memoria RAM suficiente para emular un sistema operativo y estamos estudiando la administración de un sistema GNU/Linux.
 >
 > **Solución:** Dado que un sistema Unix está dividido en dos componentes primarios, el espacio del núcleo y el espacio de usuario. Practicaremos los ejercicios en un servicio en la nube basado en contenedores que nos otorga una parte del espacio de usuario de un sistema operativo Linux, incluidos los programas, las configuraciones personalizadas y el entorno.
-
-## ¿Qué es un control de versiones?
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/338bd9ff-61fd-4152-b01b-7a41d88ed06c?title=0&warningTitle=0"
-  frameborder="0" allowfullscreen>
-</iframe>

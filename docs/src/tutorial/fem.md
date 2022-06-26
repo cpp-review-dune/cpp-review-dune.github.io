@@ -6,27 +6,27 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/uYwgv9SX33BBmMZCVv3bFJ?title=0&warningTitle=0&peertubeLink=0"
+  src="https://www.youtube-nocookie.com/embed/0iiFttgXmI8"
   frameborder="0" allowfullscreen>
 </iframe>
 
-- [Diapositiva](https://ecloud.global/s/84bFcWixzacwtMH)
+- [Diapositiva](https://ecloud.global/s/6AprTxDy3nEeMKf)
 
 ## Sesión 2
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/k6TYnvTsWSeeGjmefh4NkY?title=0&warningTitle=0&peertubeLink=0"
+  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
   frameborder="0" allowfullscreen>
 </iframe>
 
-- [Diapositiva](https://ecloud.global/s/GLX9bMH8Q5Ce7Eb)
+- [Diapositiva](https://ecloud.global/s/nJyPb6iB728TpkG)
 
 ## Sesión 3
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/pNmeuDoZz2aZZr9SV2hvUz?title=0&warningTitle=0&peertubeLink=0"
+  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
   frameborder="0" allowfullscreen>
 </iframe>
 
@@ -34,30 +34,35 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/87tnkTrgFx4FBSkatavP9c?title=0&warningTitle=0&peertubeLink=0"
+  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
   frameborder="0" allowfullscreen>
 </iframe>
 
-- [Diapositiva](https://ecloud.global/s/sNG8Ky27K98cxXa)
+- [Diapositiva](https://ecloud.global/s/LEpbHykKjDmPJio)
+
+## Sesión 5
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/Qdj5KT5bcf9Nfwb)
+
+## Sesión 6
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/ZpjjELCs5MLJ3nj)
+
+## Sesión 7
 
 ## [Minicurso por un profesor de la Universidad de Concepción 🇨🇱](https://sites.google.com/uni.edu.pe/cimmuni-2022/materiales#h.vbmc8ur8scsu)
 
-### Parte I
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/3haEShmV3K6V8GqSKcd7x5?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
-
-- [Diapositiva](https://drive.google.com/file/d/1DtzzcXpcbacklp8dz_gKy0Is3xY4ZKcF/view)
-
-### Parte II 
-
-<iframe width="610" height="350"
-  sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://diode.zone/videos/embed/xjtKnLwPnZZp3tU8eCy592?title=0&warningTitle=0&peertubeLink=0"
-  frameborder="0" allowfullscreen>
-</iframe>
-
-- [Diapositiva](https://www.dropbox.com/s/1dxu22372vixmzv/Mini-Curso1-FEM-1d-Apr%2018-Apr%2022%2C%202022-completo.pdf?dl=0)
+- [Diapositiva I](https://drive.google.com/file/d/1DtzzcXpcbacklp8dz_gKy0Is3xY4ZKcF/view)
+- [Diapositiva II](https://www.dropbox.com/s/1dxu22372vixmzv/Mini-Curso1-FEM-1d-Apr%2018-Apr%2022%2C%202022-completo.pdf?dl=0)
