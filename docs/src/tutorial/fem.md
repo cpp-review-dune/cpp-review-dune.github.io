@@ -26,7 +26,7 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  src="https://www.youtube-nocookie.com/embed/8dCGfJDErEE"
   frameborder="0" allowfullscreen>
 </iframe>
 
@@ -34,7 +34,7 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  src="https://www.youtube-nocookie.com/embed/BzZktI0DXVM"
   frameborder="0" allowfullscreen>
 </iframe>
 
@@ -44,7 +44,7 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  src="https://www.youtube-nocookie.com/embed/W_wzUge-KZ4"
   frameborder="0" allowfullscreen>
 </iframe>
 
@@ -54,7 +54,7 @@
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/j98olxPe-Fg"
+  src="https://www.youtube-nocookie.com/embed/r6mpEhH7JDo"
   frameborder="0" allowfullscreen>
 </iframe>
 
