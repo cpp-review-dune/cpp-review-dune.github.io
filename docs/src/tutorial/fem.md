@@ -70,6 +70,16 @@
 
 - [Diapositiva](https://ecloud.global/s/H3seSAojjMykyYY)
 
+## Sesión 8
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/r6mpEhH7JDo"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/dkkaZ45BmdosrxC)
+
 ## [Minicurso por un profesor de la Universidad de Concepción 🇨🇱](https://sites.google.com/uni.edu.pe/cimmuni-2022/materiales#h.vbmc8ur8scsu)
 
 - [Diapositiva I](https://drive.google.com/file/d/1DtzzcXpcbacklp8dz_gKy0Is3xY4ZKcF/view)
