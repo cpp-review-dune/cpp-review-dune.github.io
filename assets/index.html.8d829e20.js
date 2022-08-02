@@ -1,0 +1,1 @@
+const e={key:"v-5b620a84",path:"/videos/zoom/",title:"Reuniones del grupo de Telegram DUNE-PDELAB Latin Group",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1659450587e3,contributors:[{name:"Carlos Aznar\xE1n Laos",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/zoom/README.md"};export{e as data};

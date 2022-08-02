@@ -1,0 +1,1 @@
+const a={key:"v-3b864a80",path:"/videos/cpp/13-oop/",title:"13. OOP - Classes and Objects",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1659450587e3,contributors:[{name:"Carlos Aznar\xE1n Laos",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/13-oop/README.md"};export{a as data};

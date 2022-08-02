@@ -1,0 +1,20 @@
+import{_ as t,r as o,o as r,c as i,b as s,w as a,F as u,a as e,d as n}from"./app.5f7f047b.js";const p={},d=e("h3",{id:"tan-facil-como-1-2-3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#tan-facil-como-1-2-3","aria-hidden":"true"},"#"),n(" Tan f\xE1cil como 1, 2, 3")],-1),m=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# make sure you have the base-devel package group"),n(`
+$ `),e("span",{class:"token function"},"sudo"),n(" pacman -S --needed "),e("span",{class:"token function"},"git"),n(` base-devel
+`),e("span",{class:"token comment"},"# use any AUR helper and install a metapackage"),n(`
+$ yay -Syu dune-core --noconfirm
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br"),e("span",{class:"line-number"},"4"),e("br")])],-1),b=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# refresh binary repositories"),n(`
+$ doas pkg update
+`),e("span",{class:"token comment"},"# upgrade the packages"),n(`
+$ doas pkg upgrade
+`),e("span",{class:"token comment"},"# pull database changes from FreshPorts"),n(`
+$ doas portsnap fetch
+`),e("span",{class:"token comment"},"# upgrade the packages from FreshPorts"),n(`
+$ doas portsnap upgrade
+`),e("span",{class:"token comment"},"# install"),n(`
+$ `),e("span",{class:"token builtin class-name"},"cd"),n(" /usr/ports/math/dune-common/ "),e("span",{class:"token operator"},"&&"),n(" doas "),e("span",{class:"token function"},"make"),n(),e("span",{class:"token function"},"install"),n(` clean
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br"),e("span",{class:"line-number"},"4"),e("br"),e("span",{class:"line-number"},"5"),e("br"),e("span",{class:"line-number"},"6"),e("br"),e("span",{class:"line-number"},"7"),e("br"),e("span",{class:"line-number"},"8"),e("br"),e("span",{class:"line-number"},"9"),e("br"),e("span",{class:"line-number"},"10"),e("br")])],-1),h=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# Working in progress, coming soon, by PrinceMachiavell"),n(`
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br")])],-1),g=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[n("$ "),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(` ar -f https://download.opensuse.org/repositories/science/openSUSE_Tumbleweed/science.repo
+$ `),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(` --gpg-auto-import-keys ref
+$ `),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(),e("span",{class:"token function"},"install"),n(` -y dune-common dune-common-devel dune-common-doc dune-common-openmpi
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br")])],-1),f=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# someday, yes"),n(`
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br")])],-1);function _(k,v){const l=o("CodeGroupItem"),c=o("CodeGroup");return r(),i(u,null,[d,s(c,null,{default:a(()=>[s(l,{title:"Arch Linux",active:""},{default:a(()=>[m]),_:1}),s(l,{title:"FreeBSD"},{default:a(()=>[b]),_:1}),s(l,{title:"NixOS"},{default:a(()=>[h]),_:1}),s(l,{title:"openSUSE Tumbleweed"},{default:a(()=>[g]),_:1}),s(l,{title:"Plan 9"},{default:a(()=>[f]),_:1})]),_:1})],64)}var y=t(p,[["render",_],["__file","index.html.vue"]]);export{y as default};

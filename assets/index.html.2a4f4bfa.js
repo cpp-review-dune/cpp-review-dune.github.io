@@ -1,0 +1,1 @@
+const e={key:"v-b8b4f2ac",path:"/videos/cpp/",title:"Beginning C++ Programming - From Beginner to Beyond",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1659450587e3,contributors:[{name:"Carlos Aznar\xE1n Laos",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/README.md"};export{e as data};

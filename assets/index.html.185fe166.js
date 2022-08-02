@@ -1,0 +1,1 @@
+const e={key:"v-145ac574",path:"/blog/",title:"El blog de C++ Review DUNE",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1659450587e3,contributors:[{name:"Carlos Aznar\xE1n Laos",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"blog/README.md"};export{e as data};
