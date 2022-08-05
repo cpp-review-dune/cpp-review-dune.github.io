@@ -86,3 +86,14 @@
 
 - [Diapositiva I](https://drive.google.com/file/d/1DtzzcXpcbacklp8dz_gKy0Is3xY4ZKcF/view)
 - [Diapositiva II](https://www.dropbox.com/s/1dxu22372vixmzv/Mini-Curso1-FEM-1d-Apr%2018-Apr%2022%2C%202022-completo.pdf?dl=0)
+
+
+## [Curso Virtual sobre Elementos Finitos](https://www.pec3.org/index.php?show=events_onlinecourseonfiniteelements)
+
+## Sesión 1
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/NjRvzGbLKF4"
+  frameborder="0" allowfullscreen>
+</iframe>
