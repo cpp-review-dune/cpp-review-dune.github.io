@@ -98,6 +98,8 @@
   frameborder="0" allowfullscreen>
 </iframe>
 
+- [Diapositiva](https://ecloud.global/s/66pMm5d5Bgj64Pb)
+
 ## Sesión 2
 
 <iframe width="610" height="350"
@@ -105,6 +107,8 @@
   src="https://www.youtube-nocookie.com/embed/xCMorZDIEEw"
   frameborder="0" allowfullscreen>
 </iframe>
+
+- [Libro](https://ecloud.global/s/QSZNJCcd3AiJS4R)
 
 ## Sesión 3
 
@@ -116,6 +120,30 @@
 
 ## Sesión 4
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/4LfJjPR4aRw"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Materiales](https://ecloud.global/s/ZRXTdRQ5PMGp75g)
+
 ## Sesión 5
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/GBco9gCvjak"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/R7sZMxQnfBKZkya)
+
 ## Sesión 6
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/Gkg161S5-4Q"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [Diapositiva](https://ecloud.global/s/N8yp4CgGGZqAPA8)
