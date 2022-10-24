@@ -1,26 +1,34 @@
-# Taller de Python para la computación científica
+# Taller de Python para la computación científica 🐍
 
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
-Python es un lenguaje de programación útil para la resolución de problemas.
-Permite la creación.
+Python es un lenguaje de programación útil para la resolución de
+problemas de ciencias e ingeniería.
+Es común que los software escritos en lenguajes de bajo nivel
+posean bindings para diversos propósitos como la
+[creación de mallas de elementos finitos](https://pypi.org/project/pygmsh),
+[simulaciones de dinámica de fluidos](https://tum-pbs.github.io/PhiFlow/Math_Introduction.html)
+o [visualización](https://kitware.github.io/vtk-examples/site/Python),
+exportación a formatos de archivos como [HDF5](https://docs.h5py.org/en/stable),
+[paralelización](https://mpi4py.readthedocs.io).
 Para detalles de Python o alguna una biblioteca,
-vea la [documentación oficial](https://docs.python.org/3).
+vea la [documentación oficial](https://docs.python.org/es).
 
-Este taller tiene los siguientes objetivos:
+Este [taller](https://cpp-review-dune.github.io/python/2022-10-24.pdf)
+tiene los siguientes objetivos:
 
-* Enseñar a crear funciones.
+* Enseñar a crear clases, funciones, manejo de excepciones y archivos.
 * Resolver problemas desde distintas perspectivas.
 * Estar listos para poder el uso de herramientas de más alto nivel en la resolución de ecuaciones.
 
 ## Organizadores
 
-* Carlos Aznarán [caznaranl@uni.pe](mailto:caznaranl@uni.pe)
-* Alessandri Canchoa [canchoa@lamolina.edu.pe](mailto:canchoa@lamolina.edu.pe)
+* Carlos Aznarán [caznaranl@uni.pe](mailto:caznaranl@uni.pe) (instructor)
+* Alessandri Canchoa [canchoa@lamolina.edu.pe](mailto:canchoa@lamolina.edu.pe) (coordinador)
 
-## Hora y ubicación
+## Hora y ubicación 📅
 
-El taller se llevará a cabo en línea y durará cuatro días:
+El taller se llevará a cabo en línea por Zoom Meetings y durará cuatro días:
 
 * Domingo, 6 de noviembre, 08:00 - 09:30 GMT -5
 * Domingo, 12 de noviembre, 08:00 - 09:30 GMT -5
@@ -30,9 +38,9 @@ El taller se llevará a cabo en línea y durará cuatro días:
 ## Inscripción
 
 La inscripción está disponible hasta el martes 1 de noviembre a
-través del [formulario de inscripción](https://docs.python.org).
+través del [formulario de inscripción]().
 
-El límite es de 20 participantes.
+El límite es de 25 participantes.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
 
 ## Prerequisitos
