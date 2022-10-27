@@ -37,7 +37,7 @@ El taller se llevará a cabo en línea por Zoom Meetings y durará cuatro días:
 
 ## Inscripción
 
-La inscripción está disponible hasta el martes 1 de noviembre a
+La inscripción está disponible hasta el miércoles 2 de noviembre a
 través del [formulario de inscripción]().
 
 El límite es de 25 participantes.
@@ -46,7 +46,8 @@ En caso de llegar al límite, el registro se cerrará anticipadamente.
 ## Prerequisitos
 
 Para los ejercicios practicos, necesitaras una instalación de
-* Ipython (disponible en [extra](https://archlinux.org)).
+* un [navegador web](https://wiki.archlinux.org/title/List_of_applications#Graphical) para [Google Colaboratory](https://colab.research.google.com).
+* un cliente de [Zoom Meetings](https://aur.archlinux.org/packages/zoom)
 * Python
 
 ## Cronograma
