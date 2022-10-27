@@ -55,8 +55,12 @@ module.exports = {
         text: "Enlaces de interés",
         children: [
           {
-            text: "Grupo de Telegram",
+            text: "Grupo de Telegram DUNE-PDElab Latin Group",
             link: "https://t.me/joinchat/OsfYP1xnFlxjN2Ix",
+          },
+          {
+            text: "Grupo de Telegram Repaso de Python PeC3",
+            link: "https://t.me/joinchat/Cs5iwhdtPLM2MDkx",
           },
           {
             text: "DUNE/PDELab Course Material",
