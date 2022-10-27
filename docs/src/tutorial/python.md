@@ -1,4 +1,4 @@
-# Taller de Python para computación científica 🐍
+# Python para computación científica 🐍
 
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
@@ -19,11 +19,11 @@ tiene los siguientes objetivos:
 
 * Enseñar la implementación de *funciones*, *clases*,
 *manejo de excepciones* y *archivos* en Python.
-* Pueda usar otros módulos de Python, por ejemplo,
+* Al término del taller, estará listos para explorar otros módulos de Python como
 [DUNE](https://www.dune-project.org),
-[FEniCS](https://fenicsproject.org),
-[deal.II](https://www.dealii.org) en la resolución de ecuaciones
-diferenciales.
+[FEniCS](https://fenicsproject.org) o
+[deal.II](https://www.dealii.org) para la
+*resolución numérica de ecuaciones diferenciales*.
 
 ## Organizadores
 
@@ -39,30 +39,31 @@ El taller se llevará a cabo en línea por Zoom Meetings y durará cuatro días:
 * domingo 20 de noviembre de 08:00 - 09:30 a.m.
 * domingo 27 de noviembre de 08:00 - 09:30 a.m.
 
-La sala virtual estará abierta desde las 07:40 a.m.
+La sala virtual **estará abierta desde las 07:40 a.m.**
 
 ## Inscripción
 
-La inscripción está disponible hasta el miércoles 2 de noviembre a
-través del [formulario de inscripción]().
-
-El límite es de 25 participantes.
+La inscripción está disponible hasta el **miércoles 2 de noviembre**
+a través del [formulario de inscripción]().
+El límite es de **25 participantes**.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
 
-## Prerequisitos
+## Prerrequisitos
 
 Para los ejercicios prácticos, necesitaras una instalación de
 * un [navegador web](https://wiki.archlinux.org/title/List_of_applications#Graphical)
 para ingresar a [Google Colaboratory](https://colab.research.google.com).
 * un cliente de [Zoom Meetings](https://aur.archlinux.org/packages/zoom)
-para atender
-Opcionalmente, una cuenta en [GitHub](https://github.com) o un
-[cliente de mensajería instantánea](https://wiki.archlinux.org/title/List_of_applications#Other_IM_clients)
-como Telegram Desktop.
+para atender.
+
+Opcionalmente,
+* una cuenta en GitHub para [GitHub Discussions](https://github.com/features/discussions).
+* un [cliente de mensajería instantánea](https://wiki.archlinux.org/title/List_of_applications#Other_IM_clients)
+como Telegram Desktop para preguntar en el canal del taller.
 
 ## Cronograma
 
-### Domingo, 6 de noviembre
+### 6 de noviembre
 
 | Hora        | Sesión                                                              |
 | ----------- | ------------------------------------------------------------------- |
@@ -70,7 +71,7 @@ como Telegram Desktop.
 | 8:50 - 9:00 | Descanso                                                            |
 | 9:00 - 9:50 | Práctica: Exploring bash                                            |
 
-### Domingo, 13 de noviembre
+### 13 de noviembre
 
 | Hora        | Sesión                                                                                   |
 | ----------- | ---------------------------------------------------------------------------------------- |
@@ -78,7 +79,7 @@ como Telegram Desktop.
 | 8:50 - 9:00 | Descanso                                                                                 |
 | 9:00 - 9:50 | Práctica: Proyectos                                                                      |
 
-### Domingo, 20 de noviembre
+### 20 de noviembre
 
 | Hora        | Sesión                                                                                     |
 | ----------- | ------------------------------------------------------------------------------------------ |
@@ -86,7 +87,7 @@ como Telegram Desktop.
 | 8:50 - 9:00 | Descanso                                                                                   |
 | 9:00 - 9:50 | Práctica: Exploring bash                                                                   |
 
-### Domingo, 27 de noviembre
+### 27 de noviembre
 
 | Hora        | Sesión                                                                                       |
 | ----------- | -------------------------------------------------------------------------------------------- |
