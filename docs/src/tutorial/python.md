@@ -2,7 +2,7 @@
 
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
-#### Bienvenido(a) al taller de Python para computación científica
+## Bienvenido(a) al taller de Python para computación científica
 
 Python es un lenguaje de programación útil para la resolución de
 problemas de ciencias e ingeniería.
@@ -16,6 +16,8 @@ exportación a formatos de archivos como [HDF5](https://docs.h5py.org/en/stable)
 Para detalles de Python o alguna una biblioteca,
 vea la [documentación oficial](https://docs.python.org/es).
 
+### Acerca de Python
+
 Este taller tiene los siguientes objetivos:
 
 * Enseñar la implementación de *funciones*, *clases*,
@@ -26,19 +28,16 @@ Este taller tiene los siguientes objetivos:
 [deal.II](https://www.dealii.org) para la
 *resolución numérica de ecuaciones diferenciales*.
 
-## Organizadores
+## Fechas 📅
 
-* Carlos Aznarán [caznaranl@uni.pe](mailto:caznaranl@uni.pe) (instructor)
-* Alessandri Canchoa [canchoa@lamolina.edu.pe](mailto:canchoa@lamolina.edu.pe) (coordinador)
+El taller se llevará a cabo en línea por
+[Zoom Meetings](https://aur.archlinux.org/packages/zoom) y serán
+cuatro sesiones de 08:00 - 09:50 a.m
 
-## Hora y ubicación 📅
-
-El taller se llevará a cabo en línea por Zoom Meetings y durará cuatro días:
-
-* domingo 6 de noviembre de 08:00 - 09:50 a.m.
-* domingo 13 de noviembre de 08:00 - 09:50 a.m.
-* domingo 20 de noviembre de 08:00 - 09:50 a.m.
-* domingo 27 de noviembre de 08:00 - 09:50 a.m.
+* 06.11.2022
+* 13.11.2022
+* 20.11.2022
+* 27.11.2022
 
 La sala virtual **estará abierta desde las 07:40 a.m.**
 
@@ -64,46 +63,62 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 ## Cronograma
 
-### 6 de noviembre
+### Sesión 1 (06.11.2022)
 
-| Hora        | Sesión                                                              |
+| Hora        | Charla / tarea                                                      |
 | ----------- | ------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: NumPy, aspectos del cálculo del arreglo N-dimensional |
 | 8:50 - 9:00 | Descanso                                                            |
 | 9:00 - 9:50 | Práctica: Exploring bash                                            |
 
-### 13 de noviembre
+### Sesión 2 (13.11.2022)
 
-| Hora        | Sesión                                                                       |
+| Hora        | Charla / tarea                                                               |
 | ----------- | ---------------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: Matplotlib, biblioteca para crear visualizaciones interactivas |
 | 8:50 - 9:00 | Descanso                                                                     |
 | 9:00 - 9:50 | Práctica: Proyectos                                                          |
 
-### 20 de noviembre
+### Sesión 3 (20.11.2022)
 
-| Hora        | Sesión                                                                      |
+| Hora        | Charla / tarea                                                              |
 | ----------- | --------------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: SciPy, algoritmos para optimización, ecuaciones diferenciales |
 | 8:50 - 9:00 | Descanso                                                                    |
 | 9:00 - 9:50 | Práctica: Exploring bash                                                    |
 
-### 27 de noviembre
+### Sesión 4 (27.11.2022)
 
-| Hora        | Sesión                                                             |
+| Hora        | Charla / tarea                                                     |
 | ----------- | ------------------------------------------------------------------ |
 | 8:00 - 8:50 | Comunicación: PyTorch, aspectos de los tensores multidimensionales |
 | 8:50 - 9:00 | Descanso                                                           |
 | 9:00 - 9:50 | Práctica: Exploring bash                                           |
 
-#### Instalación
+## Instalación
 
-##### Arch Linux o derivadas
+### Arch Linux o derivadas
 
-sudo pacman -S python-torch
+Instale los paquetes [`python-pytorch`](https://archlinux.org/packages/community/x86_64/python-pytorch),
+[`python-matplotlib`](https://archlinux.org/packages/community/x86_64/python-matplotlib) y
+[`python-scipy`](https://archlinux.org/packages/community/x86_64/python-scipy)
+del repositorio `[community]`.
+Además de un [editor de código](https://wiki.archlinux.org/title/List_of_applications#Python_IDEs).
 
-#### Soporte o Contacto
+```console
+$ sudo pacman -Syu
+$ sudo pacman -S python-pytorch python-matplotlib python-scipy --noconfirm
+```
+
+Para el sistema Windows o macOS vea [aquí](https://scientificpython.readthedocs.io/es/latest/installation.html).
+
+## Soporte o Contacto
 
 ¿Tiene problemas para configurar sus máquinas?
 Únase a nuestro canal de Telegram: [Repaso de Python PeC3](https://t.me/+Cs5iwhdtPLM2MDkx)
 y lo ayudaremos a resolverlo.
+
+## Organizadores
+
+* Carlos Aznarán [caznaranl@uni.pe](mailto:caznaranl@uni.pe) (instructor)
+* Alessandri Canchoa [canchoa@lamolina.edu.pe](mailto:canchoa@lamolina.edu.pe) (coordinador)
