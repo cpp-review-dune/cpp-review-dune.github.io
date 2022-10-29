@@ -20,13 +20,13 @@ vea la [documentación oficial](https://docs.python.org/es).
 
 Este taller tiene los siguientes objetivos:
 
-* Enseñar la implementación de *funciones*, *clases*,
-*manejo de excepciones* y *archivos* en Python.
-* Al término del taller, estará listos para explorar otros módulos de Python como
-[DUNE](https://www.dune-project.org),
+* Enseñar la implementación de funciones, clases, manejo de
+excepciones y archivos en Python.
+* Al término del taller, estará listos para explorar otros módulos de
+Python como [DUNE](https://www.dune-project.org),
 [FEniCS](https://fenicsproject.org) o
-[deal.II](https://www.dealii.org) para la
-*resolución numérica de ecuaciones diferenciales*.
+[deal.II](https://www.dealii.org) para la resolución numérica de
+ecuaciones diferenciales.
 
 ## Fechas 📅
 
