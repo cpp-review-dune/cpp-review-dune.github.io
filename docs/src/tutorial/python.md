@@ -22,7 +22,7 @@ Este taller tiene los siguientes objetivos:
 
 * Enseñar la implementación de funciones, clases, manejo de
 excepciones y archivos en Python.
-* Al término del taller, estará listos para explorar otros módulos de
+* Al término del taller, estará listo para explorar otros módulos de
 Python como [DUNE](https://www.dune-project.org),
 [FEniCS](https://fenicsproject.org) o
 [deal.II](https://www.dealii.org) para la resolución numérica de
@@ -45,6 +45,7 @@ La sala virtual **estará abierta desde las 07:40 a.m.**
 
 La inscripción está disponible hasta el **viernes 4 de noviembre**
 a través del [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8).
+
 El límite es de **25 participantes**.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
 
@@ -56,7 +57,7 @@ para ingresar a [Google Colaboratory](https://colab.research.google.com),
 * un cliente de [Zoom Meetings](https://aur.archlinux.org/packages/zoom)
 para atender.
 
-Opcionalmente
+Opcionalmente, pero recomendado
 * una cuenta en GitHub para [GitHub Discussions](https://github.com/features/discussions),
 * un [cliente de mensajería instantánea](https://wiki.archlinux.org/title/List_of_applications#Other_IM_clients)
 como Telegram Desktop para preguntar en el canal del taller.
@@ -93,9 +94,9 @@ como Telegram Desktop para preguntar en el canal del taller.
 | ----------- | ------------------------------------------------------------------ |
 | 8:00 - 8:50 | Comunicación: PyTorch, aspectos de los tensores multidimensionales |
 | 8:50 - 9:00 | Descanso                                                           |
-| 9:00 - 9:50 | Práctica: Exploring PyTorch                                        |
+| 9:00 - 9:50 | Práctica: Explorando PyTorch                                       |
 
-## Instalación
+## Instalación (opcional)
 
 ### Arch Linux o derivadas
 
@@ -110,7 +111,8 @@ $ sudo pacman -Syu
 $ sudo pacman -S python-pytorch python-matplotlib python-scipy --noconfirm
 ```
 
-Para el sistema Windows o macOS vea [aquí](https://scientificpython.readthedocs.io/es/latest/installation.html).
+Para otras distribuciones Linux o sistemas Windows o macOS vea
+[aquí](https://scientificpython.readthedocs.io/es/latest/installation.html).
 
 ## Soporte o Contacto
 
