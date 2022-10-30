@@ -3,7 +3,7 @@
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
 ## Bienvenido(a) al taller de Python para computación científica
-
+<!-- 
 Python es un lenguaje de programación útil para la resolución de
 problemas de ciencias e ingeniería.
 Es común que los software escritos en lenguajes de bajo nivel
@@ -15,8 +15,8 @@ exportación a formatos de archivos como [HDF5](https://docs.h5py.org/en/stable)
 [paralelización](https://mpi4py.readthedocs.io).
 Para detalles de Python o alguna una biblioteca,
 vea la [documentación oficial](https://docs.python.org/es).
-
-### Acerca de Python
+ -->
+<!-- ### Acerca de Python -->
 
 Este taller tiene los siguientes objetivos:
 
@@ -44,7 +44,7 @@ La sala virtual **estará abierta desde las 07:40 a.m.**
 ## Inscripción
 
 La inscripción está disponible hasta el **miércoles 2 de noviembre**
-a través del [formulario de inscripción]().
+a través del [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8).
 El límite es de **25 participantes**.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
 
@@ -69,7 +69,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 | ----------- | ------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: NumPy, aspectos del cálculo del arreglo N-dimensional |
 | 8:50 - 9:00 | Descanso                                                            |
-| 9:00 - 9:50 | Práctica: Exploring bash                                            |
+| 9:00 - 9:50 | Práctica: Explorando NumPy                                          |
 
 ### Sesión 2 (13.11.2022)
 
@@ -77,7 +77,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 | ----------- | ---------------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: Matplotlib, biblioteca para crear visualizaciones interactivas |
 | 8:50 - 9:00 | Descanso                                                                     |
-| 9:00 - 9:50 | Práctica: Proyectos                                                          |
+| 9:00 - 9:50 | Práctica: Explorando Matplotlib                                              |
 
 ### Sesión 3 (20.11.2022)
 
@@ -85,7 +85,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 | ----------- | --------------------------------------------------------------------------- |
 | 8:00 - 8:50 | Comunicación: SciPy, algoritmos para optimización, ecuaciones diferenciales |
 | 8:50 - 9:00 | Descanso                                                                    |
-| 9:00 - 9:50 | Práctica: Exploring bash                                                    |
+| 9:00 - 9:50 | Práctica: Explorando SciPy                                                  |
 
 ### Sesión 4 (27.11.2022)
 
@@ -93,7 +93,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 | ----------- | ------------------------------------------------------------------ |
 | 8:00 - 8:50 | Comunicación: PyTorch, aspectos de los tensores multidimensionales |
 | 8:50 - 9:00 | Descanso                                                           |
-| 9:00 - 9:50 | Práctica: Exploring bash                                           |
+| 9:00 - 9:50 | Práctica: Exploring PyTorch                                        |
 
 ## Instalación
 
