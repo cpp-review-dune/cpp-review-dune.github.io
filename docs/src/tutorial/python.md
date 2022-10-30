@@ -1,4 +1,4 @@
-# [Python para computación científica 🚀](https://cpp-review-dune.github.io/python/2022-10-28.pdf)
+# [Python para computación científica 🚀](https://cpp-review-dune.github.io/python/2022-10-30.pdf)
 
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
@@ -43,7 +43,7 @@ La sala virtual **estará abierta desde las 07:40 a.m.**
 
 ## Inscripción
 
-La inscripción está disponible hasta el **miércoles 2 de noviembre**
+La inscripción está disponible hasta el **viernes 4 de noviembre**
 a través del [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8).
 El límite es de **25 participantes**.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
