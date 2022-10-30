@@ -1,4 +1,4 @@
-# [Python para computación científica 🐍](https://cpp-review-dune.github.io/python/2022-10-28.pdf)
+# [Python para computación científica 🚀](https://cpp-review-dune.github.io/python/2022-10-28.pdf)
 
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
