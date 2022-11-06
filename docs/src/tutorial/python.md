@@ -70,11 +70,25 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 ### Sesión 1 (06.11.2022)
 
-| Hora        | Charla / tarea                                                      |
-| ----------- | ------------------------------------------------------------------- |
-| 8:00 - 8:50 | Comunicación: NumPy, aspectos del cálculo del arreglo N-dimensional |
-| 8:50 - 9:00 | Descanso                                                            |
-| 9:00 - 9:50 | Práctica: Explorando NumPy                                          |
+| Hora        | Charla / tarea                                                   |
+| ----------- | ---------------------------------------------------------------- |
+| 8:00 - 8:10 | Comunicación: Presentación del grupo C++ Review DUNE.            |
+| 8:10 - 8:30 | Vistazo general de Python, elementos especiales                  |
+| 8:30 - 8:50 | Objetos y tipos, ¿cuándo usar una función?                       |
+| 8:50 - 9:00 | Descanso                                                         |
+| 9:00 - 9:50 | Práctica: NumPy, aspectos del cálculo del arreglo N-dimensional. |
+
+- [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-06.pdf)
+- [Pad de apuntes](https://hackmd.io/-KLWqUZGTsilTAiT7Vk7sA?view)
+- [Cuaderno](https://colab.research.google.com/drive/1If-vPq-4TkKbeZ8LrKOwCEiEchjI7XHM?usp=sharing)
+
+#### Grabación
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/bb4kLMqJgpM"
+  frameborder="0" allowfullscreen>
+</iframe>
 
 ### Sesión 2 (13.11.2022)
 
