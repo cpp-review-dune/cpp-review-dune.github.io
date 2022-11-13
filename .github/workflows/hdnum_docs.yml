@@ -8,7 +8,7 @@ on:
 
 jobs:
   build_doxygen:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-22.04
     steps:
       - name: Partial Clone
         shell: bash
@@ -66,7 +66,7 @@ jobs:
           sudo chown runner:docker -R .
           tar --zstd -cf HDNUM_DOCS.tar.zst doc/html doc/latex/refman.pdf tutorial/hdnum.pdf programmierkurs/programmierkurs*.pdf tutorial/hdnum-tutorial-article.pdf tutorial/hdnum-tutorial-beamer.pdf
 
-      - uses: actions/upload-artifact@v2
+      - uses: actions/upload-artifact@v3
         with:
           name: HDNUM_DOCS-artifact
           path: HDNUM_DOCS.tar.zst

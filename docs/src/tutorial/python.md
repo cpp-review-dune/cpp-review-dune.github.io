@@ -37,11 +37,11 @@ cuatro sesiones de 08:00 - 09:50 a.m
 * 20.11.2022
 * 27.11.2022
 
-La sala virtual **estará abierta desde las 07:40 a.m.**
+La sala virtual _estará abierta desde las 07:40 a.m._
 
 ## Inscripción
 
-~~La inscripción está disponible hasta el **viernes 4 de noviembre**
+~~La inscripción está disponible hasta el _viernes 4 de noviembre_
 a través del [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8)~~.
 
 El formulario de inscripción se **cerró el día viernes 4 de noviembre a las 2:00 p.m.**
