@@ -3,9 +3,8 @@
 ![telegram logo](https://user-images.githubusercontent.com/21283014/197436896-5e3288d3-fa4d-4bcb-8e4b-82e77654e5c9.jpg)
 
 ## Bienvenido(a) al taller de Python para computación científica
-<!-- 
-Python es un lenguaje de programación útil para la resolución de
-problemas de ciencias e ingeniería.
+
+<!--
 Es común que los software escritos en lenguajes de bajo nivel
 posean bindings para diversos propósitos como la
 [creación de mallas de elementos finitos](https://pypi.org/project/pygmsh),
@@ -15,7 +14,7 @@ exportación a formatos de archivos como [HDF5](https://docs.h5py.org/en/stable)
 [paralelización](https://mpi4py.readthedocs.io).
 Para detalles de Python o alguna una biblioteca,
 vea la [documentación oficial](https://docs.python.org/es).
- -->
+-->
 
 Este taller tiene los siguientes objetivos:
 
@@ -49,10 +48,12 @@ El formulario de inscripción se **cerró el día viernes 4 de noviembre a las 2
 
 Gracias por su interés 😄 y esperamos seguir aprendiento Python
 después de las clases.
-<!-- 
+
+<!--
 El límite es de **25 participantes**.
 En caso de llegar al límite, el registro se cerrará anticipadamente.
- -->
+-->
+
 ## Prerrequisitos
 
 Para los ejercicios prácticos, necesitarás una instalación de
@@ -81,6 +82,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-06.pdf)
 - [Pad de apuntes](https://hackmd.io/-KLWqUZGTsilTAiT7Vk7sA?view)
 - [Cuaderno](https://colab.research.google.com/drive/1If-vPq-4TkKbeZ8LrKOwCEiEchjI7XHM?usp=sharing)
+- [Ejercicios](https://cpp-review-dune.github.io/python/ex1.pdf)
 
 #### Grabación
 
@@ -97,6 +99,19 @@ como Telegram Desktop para preguntar en el canal del taller.
 | 8:00 - 8:50 | Comunicación: Matplotlib, biblioteca para crear visualizaciones interactivas |
 | 8:50 - 9:00 | Descanso                                                                     |
 | 9:00 - 9:50 | Práctica: Explorando Matplotlib                                              |
+
+- [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-13.pdf)
+- [Pad de apuntes](https://hackmd.io/YRGskcW4TKekjiqt-ZHr1Q?view)
+- [Cuaderno](https://colab.research.google.com/drive/1zXTUP1pIWkrdujbWygXAgCsuoi8LSSZM?usp=sharing)
+- [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
+
+#### Grabación
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/h1YnsL7S_kw"
+  frameborder="0" allowfullscreen>
+</iframe>
 
 ### Sesión 3 (20.11.2022)
 
