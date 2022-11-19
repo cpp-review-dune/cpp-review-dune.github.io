@@ -193,6 +193,13 @@ El día 24 de octubre del 2022 se liberó la versión 3.11 que destaca la mejora
 - [What’s New in Python Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/whatsnew.pdf)
 </details>
 
+## Libros de introducción a Python
+
+Estos libros tienen licencia Creative Commons por lo que se puede redistribuir libremente.
+
+- [Python para todos](https://duenaslerin.com/tico2/pdfs/python-para-todos.pdf)
+- [Python® Notes for Professionals book](https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
+
 ## Soporte o Contacto
 
 ¿Tiene problemas para configurar sus máquinas?
