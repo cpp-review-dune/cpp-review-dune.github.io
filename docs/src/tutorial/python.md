@@ -103,7 +103,6 @@ como Telegram Desktop para preguntar en el canal del taller.
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-13.pdf)
 - [Pad de apuntes](https://hackmd.io/YRGskcW4TKekjiqt-ZHr1Q?view)
 - [Cuaderno](https://colab.research.google.com/drive/1zXTUP1pIWkrdujbWygXAgCsuoi8LSSZM?usp=sharing)
-- [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
 
 #### Grabación
 
@@ -120,6 +119,19 @@ como Telegram Desktop para preguntar en el canal del taller.
 | 8:00 - 8:50 | Comunicación: SciPy, algoritmos para optimización, ecuaciones diferenciales |
 | 8:50 - 9:00 | Descanso                                                                    |
 | 9:00 - 9:50 | Práctica: Explorando SciPy                                                  |
+
+- [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-20.pdf)
+- [Pad de apuntes](https://hackmd.io/pMMQskIlSOCd7ZY5OCydgQ?view)
+- [Cuaderno](https://colab.research.google.com/drive/1HdoWUX9GUQSw2nwmRNoZEXP5FqxlqbTf?usp=sharing)
+- [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
+
+#### Grabación
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/XEHAcz6vupQ"
+  frameborder="0" allowfullscreen>
+</iframe>
 
 ### Sesión 4 (27.11.2022)
 
