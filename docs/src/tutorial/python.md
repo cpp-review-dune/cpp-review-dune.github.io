@@ -123,7 +123,6 @@ como Telegram Desktop para preguntar en el canal del taller.
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-20.pdf)
 - [Pad de apuntes](https://hackmd.io/pMMQskIlSOCd7ZY5OCydgQ?view)
 - [Cuaderno](https://colab.research.google.com/drive/1HdoWUX9GUQSw2nwmRNoZEXP5FqxlqbTf?usp=sharing)
-- [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
 
 #### Grabación
 
@@ -140,6 +139,19 @@ como Telegram Desktop para preguntar en el canal del taller.
 | 8:00 - 8:50 | Comunicación: PyTorch, aspectos de los tensores multidimensionales |
 | 8:50 - 9:00 | Descanso                                                           |
 | 9:00 - 9:50 | Práctica: Explorando PyTorch                                       |
+
+- [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-27.pdf)
+- [Pad de apuntes](https://hackmd.io/zLL_5AAXQBuR_DjJVVxgSg?edit)
+- [Cuaderno](https://colab.research.google.com/drive/1lKqv6s3JgUsvvsaFcAueh1nS7uiUimWz?usp=sharing)
+- [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
+
+#### Grabación
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/xsaJE85HwSQ"
+  frameborder="0" allowfullscreen>
+</iframe>
 
 ## Instalación (opcional)
 
