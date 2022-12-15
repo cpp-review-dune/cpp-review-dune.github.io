@@ -2,8 +2,8 @@
 
 ## Sesión 1 (05.12.2022)
 
-Deducción de la fórmula de D'Alembert para la solución del problema de
-valor inicial de la ecuación de la onda 1D en el espacio
+Se resuelve el _problema de valor inicial_ de la ecuación de la onda
+1D
 
 $$
 \begin{aligned}
@@ -17,7 +17,7 @@ $$
 \end{aligned}
 $$
 
-cuya solución es
+y se deduce la fórmula de D'Alembert
 
 $$
 u\left(x,t\right)=
@@ -180,7 +180,9 @@ if __name__ == "__main__":
 
 ## Sesión 2 (12.12.2022)
 
-La energía total de un sistema se conserva, es decir,
+Se define el _dominio de dependencia_ e _intervalo de dependencia_.
+
+Se exhibe que la energía total de un sistema se conserva, es decir,
 $\forall t\geq 0: K\left(t\right)=-P\left(t\right)$,
 donde
 
@@ -195,8 +197,8 @@ P\left(t\right)=
 u_{x}^{2}\mathrm{d}x.
 $$
 
-El problema de valor inicial de la ecuación de la onda
-en el caso no homogéneo es
+El _problema de valor inicial_ de la ecuación de la onda en el caso
+no homogéneo es
 
 $$
 \begin{cases}
@@ -224,7 +226,7 @@ u\left(x,t\right)=
 f\left(y,\tau\right)\mathrm{d}y\mathrm{d}\tau.
 $$
 
-El principio de Duhamel establece que
+Se estudia el _principio de Duhamel_ que establece
 
 $$
 u\left(x,t\right)=
@@ -247,13 +249,23 @@ $$
 - [Diapositiva](https://murena.io/s/KcQ5YsKdNGdziLq)
 
 ## Sesión 3 (16.12.2022)
-<!-- 
+
 ### Grabación
+
+- [Diapositiva](https://murena.io/s/MnpbbsZ2HafFgeR)
+
+### Referencias
+
+- [Partial Differential Equations: A First Course by Rustum Choksi](https://murena.io/s/zjZRGH9ffpMWXZD)
+- [Partial Differential Equations: An Accessible Route through Theory and Applications by András Vasy](https://murena.io/s/F5ixAHSpKmegCfY)
+- [Introduction to Partial Differential Equations with MATLAB](https://murena.io/s/fHRGKbbtjx538Lm)
+- [An Introduction to Partial Differential Equations with MATLAB by Matthew P. Coleman](https://perhuaman.files.wordpress.com/2014/07/ecuaciones-diferenciales-matlab-matthew-p-coleman.pdf). Páginas 54-58, 62-65, 138-146, 155, 157, 159-160, 195-201, 250, 378-380, 390-397, 414-421, 439-455, 556, 588, 593, 596-597.
+- [Lecture notes based on L.C.Evans’s textbook, by Baisheng Yan](https://users.math.msu.edu/users/yanb/847full-note.pdf). Páginas 65-82.
+- Math 124A/215A by Viktor Grigoryan. Páginas [1-7](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec6.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec11.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec13.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec14.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16A.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec17.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec18.pdf).
+- [Vector Analysis and an introduction to tensor analysis by Murray R. Spiegel](http://www.uop.edu.pk/ocontents/Vector%20Analysis%20Schaum.pdf)
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/sJNpwU0Pu3w"
+  src="https://www.youtube-nocookie.com/embed/rB83DpBJQsE"
   frameborder="0" allowfullscreen>
-</iframe> -->
-
-- [Diapositiva](https://murena.io/s/MnpbbsZ2HafFgeR)
+</iframe>
