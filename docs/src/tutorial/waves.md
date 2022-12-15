@@ -1,5 +1,10 @@
 # [Métodos analíticos de resolución de la Ecuación de Onda (1D, 2D y 3D) 🌊](https://departamento.pucp.edu.pe/ciencias/evento/minicursos-virtuales-de-matematicas)
 
+## Sesión 1 (05.12.2022)
+
+Deducción de la fórmula de D'Alembert para la solución del problema de
+valor inicial de la ecuación de la onda 1D en el espacio
+
 $$
 \begin{aligned}
 	u_{tt}                & =
@@ -12,7 +17,18 @@ $$
 \end{aligned}
 $$
 
-## Sesión 1 (05.12.2022)
+cuya solución es
+
+$$
+u\left(x,t\right)=
+\frac{1}{2}
+\left[
+    \varphi\left(x+ct\right)+
+    \varphi\left(x-ct\right)
+\right]+
+\frac{1}{2c}\int_{x-ct}^{x+ct}
+\psi(s)\mathrm{d}s.
+$$
 
 ### Grabación
 
@@ -150,10 +166,75 @@ if __name__ == "__main__":
     Wave1D().make_plot()
     Wave1D().make_animation()
 ```
+
+![photo_2022-12-14_20-04-41](https://user-images.githubusercontent.com/21283014/207748238-9f8ac171-704b-46fa-a101-a3933464fc3b.jpg)
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://user-images.githubusercontent.com/21283014/207748261-2f58ff58-89b0-44dc-bb1b-922811462338.mp4"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 </details>
 
 
 ## Sesión 2 (12.12.2022)
+
+La energía total de un sistema se conserva, es decir,
+$\forall t\geq 0: K\left(t\right)=-P\left(t\right)$,
+donde
+
+$$
+K\left(t\right)=
+\frac{1}{2}
+\int_{-\infty}^{\infty}
+\rho u_{t}^{2}\mathrm{d}x,\quad
+P\left(t\right)=
+\frac{T}{2}
+\int_{-\infty}^{\infty}
+u_{x}^{2}\mathrm{d}x.
+$$
+
+El problema de valor inicial de la ecuación de la onda
+en el caso no homogéneo es
+
+$$
+\begin{cases}
+u_{tt}-c^{2}u_{xx}=
+f\left(x,t\right), & x\in\mathbb{R},t>0 \\
+u\left(x,0\right)=
+\varphi\left(x\right), & x\in\mathbb{R},\\
+u_{t}\left(x,0\right)=
+\psi\left(x\right), & x\in\mathbb{R}.
+\end{cases}
+$$
+Donde $c^{2}=\frac{T}{\rho}$ y su solución es
+$$
+u\left(x,t\right)=
+\frac{1}{2}
+\left[
+    \varphi\left(x+ct\right)+
+    \varphi\left(x-ct\right)
+    \right]+
+\frac{1}{2c}
+\int_{x-ct}^{x+ct}
+\psi(s)\mathrm{d}s+
+\frac{1}{2c}
+\iint_{D}
+f\left(y,\tau\right)\mathrm{d}y\mathrm{d}\tau.
+$$
+
+El principio de Duhamel establece que
+
+$$
+u\left(x,t\right)=
+\int_{0}^{t}
+w\left(x,t;\tau\right)\mathrm{d}\tau=
+\frac{1}{2c}
+\int_{0}^{t}
+\int_{x-c\left(t-\tau\right)}^{x+c\left(t-\tau\right)}
+f\left(y,\tau\right)\mathrm{d}y\mathrm{d}\tau.
+$$
 
 ### Grabación
 
@@ -164,3 +245,15 @@ if __name__ == "__main__":
 </iframe>
 
 - [Diapositiva](https://murena.io/s/KcQ5YsKdNGdziLq)
+
+## Sesión 3 (16.12.2022)
+<!-- 
+### Grabación
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/sJNpwU0Pu3w"
+  frameborder="0" allowfullscreen>
+</iframe> -->
+
+- [Diapositiva](https://murena.io/s/MnpbbsZ2HafFgeR)
