@@ -1,7 +1,7 @@
 # Prerrequisites
 
 ```console
-$ sudo pacman -Syyu yarn
+$ sudo pacman -Syyu yarn --needed
 $ git clone --filter=blob:none --depth=1 git@github.com:cpp-review-dune/cpp-review-dune.github.io.git
 $ cd cpp-review-dune.github.io/docs
 $ yarn install

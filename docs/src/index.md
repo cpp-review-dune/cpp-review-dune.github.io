@@ -14,7 +14,7 @@ features:
   - title: 🎥 en español 🇲🇽 🇨🇴 🇵🇪
     details: Cada sesión grupal es subido al canal cpp-review-dune de modo no listado, diode.zone está basado en PeerTube. Ahora en YouTube, ya que eliminó la cuenta sin alguna explicación.
   - title: Sobre contenedores 🐳
-    details: Utilizamos Gitpod como el espacio de trabajo en su plan open source de 100 horas/mes junto con las imágenes, que cuentan con los comandos dune-ctest, duneproject, dunecontrol y dune-git-whitespace-hook fuera de la caja.
+    details: Utilizamos Gitpod como el espacio de trabajo en su plan open source de 50 horas/mes junto con las imágenes, que cuentan con los comandos dune-ctest, duneproject, dunecontrol y dune-git-whitespace-hook fuera de la caja.
   - title: Corre sobre Arch Linux 🐧
     details: Una distribución GNU/Linux comunitaria que se adhiere a los principios de simplicidad, modernidad, pragmatismo, centrado a las usuarias y usuarios; y versatilidad.
 footer: Made by C++ Review Dune with ❤️
@@ -26,10 +26,15 @@ footer: Made by C++ Review Dune with ❤️
   <CodeGroupItem title="Arch Linux" active>
 
 ```bash
+# with arch4edu repository https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
+$ sudo pacman -Syu dumux --noconfirm
+```
+
+```bash
 # make sure you have the base-devel package group
 $ sudo pacman -S --needed git base-devel
 # use any AUR helper and install a metapackage
-$ yay -Syu dune-core --noconfirm
+$ yay -Syu dumux --noconfirm
 ```
 
   </CodeGroupItem>
@@ -64,7 +69,7 @@ $ cd /usr/ports/math/dune-common/ && doas make install clean
 ```bash
 $ sudo zypper ar -f https://download.opensuse.org/repositories/science/openSUSE_Tumbleweed/science.repo
 $ sudo zypper --gpg-auto-import-keys ref
-$ sudo zypper install -y dune-common dune-common-devel dune-common-doc dune-common-openmpi
+$ sudo zypper install -y dune-common-devel dune-common-doc dune-common-openmpi
 ```
 
   </CodeGroupItem>

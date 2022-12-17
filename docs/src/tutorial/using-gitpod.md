@@ -1,10 +1,6 @@
 # Using Gitpod
 
-$$
-\Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
-$$
-
-[por qué usar gitpod]()
+[¿Por qué usar Gitpod?]()
 
 | Lectura | Tópico                  |    Diapositivas    |          Tutoriales           |     Ejercicios      |  Soluciones   | Lecturas sugereridas |
 | ------- | ----------------------- | :----------------: | :---------------------------: | :-----------------: | :-----------: | -------------------: |
@@ -21,15 +17,6 @@ $$
 | 10      | `dune-pdelab-tutorials` | [lectura-10](.pdf) | [](cpp-review-dune.github.io) | [ejercicio-1](.pdf) |               |                      |
 
 - Consideraremos python si usamos dune-fem-python
-
-### HTML
-
-La energía promedio de los neutrinos $\langle E \rangle$ emitida durante la explosión es del orden de $10MeV$, y la luminosidad de los neutrinos es de aproximadamente $10^{52}\mathrm{ergs\cdot s^{-1}}$.
-Así, la densidad del número de neutrinos de radio $R$ es:
-
-$$
-n \sim  10^{18} \mathrm{cm^{-3}} \left(\frac{100\mathrm{km}}{R}\right)^2 \left(\frac{10\mathrm{MeV}}{\langle E \rangle}\right).
-$$
 
 Comandos GNU/Linux
 Paso a paso de cómo ejecutar un programa

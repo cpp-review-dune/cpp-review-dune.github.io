@@ -3,8 +3,8 @@
 ## Documentación oficial de Paraview, F3D y Gmsh
 
 - [Paraview](https://cpp-review-dune.github.io/files/docs-paraview-org-en-latest.pdf)
-- [Gmsh](http://gmsh.info/doc/texinfo/gmsh.pdf)
-- [F3D](https://f3d-app.github.io/f3d/docs)
+- [Gmsh](https://gmsh.info/doc/texinfo/gmsh.pdf)
+- [F3D](https://f3d.app)
 
 ## Tutoriales de Gmsh
 

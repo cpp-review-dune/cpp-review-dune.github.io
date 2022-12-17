@@ -14,12 +14,12 @@ exportación a formatos de archivos como [HDF5](https://docs.h5py.org/en/stable)
 [paralelización](https://mpi4py.readthedocs.io).
 Para detalles de Python o alguna una biblioteca,
 vea la [documentación oficial](https://docs.python.org/es).
+manejo de excepciones y archivos en Python.
 -->
 
 Este taller tiene los siguientes objetivos:
 
-* Enseñar la implementación de funciones, clases, manejo de
-excepciones y archivos en Python.
+* Practicar la implementación de funciones y clases con la resolución de una lista de ejercicios.
 * Al término del taller, estará listo para explorar otros módulos de
 Python como [DUNE](https://www.dune-project.org),
 [FEniCS](https://fenicsproject.org) o
@@ -48,11 +48,6 @@ El formulario de inscripción se **cerró el día viernes 4 de noviembre a las 2
 
 Gracias por su interés 😄 y esperamos seguir aprendiento Python
 después de las clases.
-
-<!--
-El límite es de **25 participantes**.
-En caso de llegar al límite, el registro se cerrará anticipadamente.
--->
 
 ## Prerrequisitos
 
@@ -223,6 +218,7 @@ Estos libros tienen licencia Creative Commons por lo que se puede redistribuir l
 
 - [Python para todos](https://duenaslerin.com/tico2/pdfs/python-para-todos.pdf)
 - [Python® Notes for Professionals book](https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
+- [Introduction to Engineering and Scientific Computing with Python](https://murena.io/s/9MqNY68QbBeBLyn)
 
 ## Soporte o Contacto
 
