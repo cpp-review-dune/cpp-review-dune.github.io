@@ -1,6 +1,6 @@
 # [Escuela de Matemática Aplicada 🇨🇱](https://ema-ucsc.github.io)
 
-![ema-2022](https://ema-ucsc.github.io/img/galeria/EMA-P2022/Afiche-EMA-P2022-2.png)
+![ema-2022](https://ema-ucsc.github.io/img/galeria/EMA-P2022/Afiche-EMA-P2022.png)
 
 ### Día 1 (12.12.2022)
 
