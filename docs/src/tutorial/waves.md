@@ -276,6 +276,27 @@ $$
 - [Lecture notes based on L.C.Evans’s textbook, by Baisheng Yan](https://users.math.msu.edu/users/yanb/847full-note.pdf). Páginas 65-82.
 - Math 124A/215A by Viktor Grigoryan. Páginas [1-7](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec6.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec11.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec13.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec14.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16A.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec17.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec18.pdf).
 - [Vector Analysis and an introduction to tensor analysis by Murray R. Spiegel](http://www.uop.edu.pk/ocontents/Vector%20Analysis%20Schaum.pdf)
+- [A first course in partial differential equations](http://people.uncw.edu/hermanr/pde2/PDE2notes/PDE1_Main.pdf)
+- [Applied Partial Differential Equations](https://murena.io/s/iS2cPpoPJf99dAp)
+- [Fundamentals of Differential Equations](https://murena.io/s/R2XijBkejPH82EY)
+
+<details>
+  <summary>
+  Vídeos acerca de la interpretación física de las leyes de
+  conservación de la energía y del movimiento ondulatorio.
+  </summary>
+  <iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/dE8uotwV2RM"
+  frameborder="0" allowfullscreen>
+  </iframe>
+
+  <iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/aEJWAgiSLMc"
+  frameborder="0" allowfullscreen>
+  </iframe>
+</details>
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"

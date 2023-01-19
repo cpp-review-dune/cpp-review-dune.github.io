@@ -26,15 +26,18 @@ footer: Made by C++ Review Dune with ❤️
   <CodeGroupItem title="Arch Linux" active>
 
 ```bash
-# with arch4edu repository https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
-$ sudo pacman -Syu dumux --noconfirm
+$ # Recommendation: Use the binaries from arch4edu repository
+$ # Hint: curl -s https://gitlab.com/dune-archiso/dune-archiso.gitlab.io/-/raw/main/templates/add_arch4edu.sh | bash
+$ # See: https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
+$ sudo pacman -Syu --noconfirm dumux
 ```
 
 ```bash
-# make sure you have the base-devel package group
-$ sudo pacman -S --needed git base-devel
+$ # Make sure you have the base-devel package group
+$ # See: https://wiki.archlinux.org/title/Arch_User_Repository
+$ sudo pacman -Syu --needed git base-devel
 # use any AUR helper and install a metapackage
-$ yay -Syu dumux --noconfirm
+$ yay -S dumux --noconfirm
 ```
 
   </CodeGroupItem>
