@@ -107,7 +107,7 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@renovamen/vuepress-plugin-katex@^2.0.0-alpha.26":
+"@renovamen/vuepress-plugin-katex@^2.0.0-alpha.10":
   version "2.0.0-alpha.26"
   resolved "https://registry.yarnpkg.com/@renovamen/vuepress-plugin-katex/-/vuepress-plugin-katex-2.0.0-alpha.26.tgz#2ebf143fe251fa10e3893f92fc965c7a03f0d29d"
   integrity sha512-K/m3ldW+WXKO76BfCnwHmXM1atK8pY8FQ+x39hLYLQZTI/hk0ZxnuEk8W4Z5ou+9T6o+RdhU0pX2Y8AQtWBcUQ==

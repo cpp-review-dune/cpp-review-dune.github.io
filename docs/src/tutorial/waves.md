@@ -267,7 +267,7 @@ $$
 - [Partial Differential Equations: Second Edition by Lawrence C. Evans](http://home.ustc.edu.cn/~xushijie/pdf/textbooks/pde-evans.pdf)
 - [Advanced Modern Engineering Mathematics by Glyn James](https://sv.20file.org/up1/692_0.pdf)
 - [Advanced Engineering Mathematics by Dennis Zill](https://elasticbeanstalk-us-east-2-344375731421.s3.us-east-2.amazonaws.com/StudyChat/Dennis-G.-Zill-Advanced-Engineering-Mathematics-2016-Jones-Bartlett.pdf)
-- [Advanced Engineering Mathematics by Peter V. O'Neil](https://www.notes4free.in/admin/postimages/discretemach_.pdf)
+- [Advanced Engineering Mathematics by Peter V. O'Neil](https://drspmaths.files.wordpress.com/2020/01/advanced-engineering-mathematics-peter-v.-o-neil.pdf)
 - [Advanced Engineering Mathematics by Erwin Kreyszig](https://www.bau.edu.jo/UserPortal/UserProfile/PostsAttach/59003_3812_1.pdf)
 - [Partial Differential Equations: A First Course by Rustum Choksi](https://murena.io/s/zjZRGH9ffpMWXZD)
 - [Partial Differential Equations: An Accessible Route through Theory and Applications by András Vasy](https://murena.io/s/F5ixAHSpKmegCfY)
