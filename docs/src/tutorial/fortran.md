@@ -10,8 +10,14 @@
 - [Add `arch4edu` to your Arch Linux](https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux)
 - [Tutorial](https://drive.google.com/file/d/15VsxMTX07wk-cUqYwh4p8Lj-KHhXab85/view?usp=share_link)
 
-<!-- <iframe width="610" height="350"
+<iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/ZAmGu0O5SAM"
+  src="https://www.youtube-nocookie.com/embed/JzBGxTrW6DY"
   frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
+
+```bash
+$ sudo pacman -Syu --noconfirm gcc-fortran texlive-most texstudio gnuplot gimp octave
+```
+
+### Día 2 (25.01.2023)
