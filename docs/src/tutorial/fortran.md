@@ -16,8 +16,14 @@
   frameborder="0" allowfullscreen>
 </iframe>
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/nTNaRVG1RQo"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 ```bash
-$ sudo pacman -Syu --noconfirm gcc-fortran texlive-most texstudio gnuplot gimp octave
+$ sudo pacman -Syu --noconfirm gcc-fortran texlive-most texstudio inkscape gnuplot gimp octave
 ```
 
 ### Día 2 (25.01.2023)
