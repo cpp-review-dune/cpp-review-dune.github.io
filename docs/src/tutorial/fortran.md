@@ -8,7 +8,8 @@
 
 - [Arch Linux installation](https://wiki.archlinux.org/title/Installation_guide)
 - [Add `arch4edu` to your Arch Linux](https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux)
-- [Tutorial](https://drive.google.com/file/d/15VsxMTX07wk-cUqYwh4p8Lj-KHhXab85/view?usp=share_link)
+- [Schedule](https://murena.io/s/2mgrRZMpEbj6354)
+- [Tutorial](https://murena.io/s/jxija4aoBd37ofG)
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
