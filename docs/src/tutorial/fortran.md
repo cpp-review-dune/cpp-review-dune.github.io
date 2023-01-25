@@ -27,9 +27,18 @@ $ git clone git@github.com:cpp-review-dune/hello-fortran.git
   frameborder="0" allowfullscreen>
 </iframe>
 
+- [gedit](https://archlinux.org/packages/community/x86_64/gedit)
+- [gcc-fortran](https://archlinux.org/packages/core/x86_64/gcc-fortran)
+- [texlive-latexextra](https://archlinux.org/packages/extra/any/texlive-latexextra)
+- [texworks](https://archlinux.org/packages/community/x86_64/texworks)
+- [texmaker](https://archlinux.org/packages/community/x86_64/texmaker)
+- [gnuplot](https://archlinux.org/packages/extra/x86_64/gnuplot)
+- [inkscape](https://archlinux.org/packages/extra/x86_64/inkscape)
+- [gimp](https://archlinux.org/packages/extra/x86_64/gimp)
+- [octave](https://archlinux.org/packages/community/x86_64/octave)
+
 ```bash
-$ PACKAGES="gcc-fortran texlive-most texstudio inkscape gnuplot gimp octave"
-$ sudo pacman -Syu --noconfirm $PACKAGES
+$ sudo pacman -Syu --noconfirm <package>
 ```
 
 ### Día 2 (25.01.2023)
