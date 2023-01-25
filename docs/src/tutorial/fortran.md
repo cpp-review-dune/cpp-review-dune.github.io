@@ -43,10 +43,10 @@ $ sudo pacman -Syu --noconfirm <package>
 
 ### Día 2 (25.01.2023)
 
-<!-- <iframe width="610" height="350"
+<iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/nTNaRVG1RQo"
+  src="https://www.youtube-nocookie.com/embed/Zsw3q_ufWrk"
   frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
 
 ### Día 3 (27.01.2023)
