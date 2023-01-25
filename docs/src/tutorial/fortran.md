@@ -2,12 +2,16 @@
 
 ![](https://user-images.githubusercontent.com/21283014/213923808-5ed328f2-b59b-4f30-95be-8ac9d30628a3.jpg)
 
+```bash
+$ git clone git@github.com:cpp-review-dune/hello-fortran.git
+```
+
 ### Día 1 (23.01.2023)
 
 #### Installation
 
 - [Arch Linux installation](https://wiki.archlinux.org/title/Installation_guide)
-- [Add `arch4edu` to your Arch Linux](https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux)
+- [Add `arch4edu` to your Arch Linux](https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux) (hint: `curl -s https://gitlab.com/dune-archiso/dune-archiso.gitlab.io/-/raw/main/templates/add_arch4edu.sh | bash`)
 - [Schedule](https://murena.io/s/2mgrRZMpEbj6354)
 - [Tutorial](https://murena.io/s/jxija4aoBd37ofG)
 
@@ -24,7 +28,16 @@
 </iframe>
 
 ```bash
-$ sudo pacman -Syu --noconfirm gcc-fortran texlive-most texstudio inkscape gnuplot gimp octave
+$ PACKAGES="gcc-fortran texlive-most texstudio inkscape gnuplot gimp octave"
+$ sudo pacman -Syu --noconfirm $PACKAGES
 ```
 
 ### Día 2 (25.01.2023)
+
+<!-- <iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/nTNaRVG1RQo"
+  frameborder="0" allowfullscreen>
+</iframe> -->
+
+### Día 3 (27.01.2023)
