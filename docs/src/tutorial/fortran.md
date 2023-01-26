@@ -15,11 +15,15 @@ $ git clone git@github.com:cpp-review-dune/hello-fortran.git
 - [Schedule](https://murena.io/s/2mgrRZMpEbj6354)
 - [Tutorial](https://murena.io/s/jxija4aoBd37ofG)
 
+##### Telegram
+
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
   src="https://www.youtube-nocookie.com/embed/JzBGxTrW6DY"
   frameborder="0" allowfullscreen>
 </iframe>
+
+##### Zoom
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -49,4 +53,30 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
+##### Zoom
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/kf0D5Gua4hk"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 ### Día 3 (27.01.2023)
+
+<!-- ##### Telegram
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/kf0D5Gua4hk"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+##### Zoom
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/kf0D5Gua4hk"
+  frameborder="0" allowfullscreen>
+</iframe> -->
+
+### Día 4 (30.01.2023)
