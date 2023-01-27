@@ -63,15 +63,15 @@ $ sudo pacman -Syu --noconfirm <package>
 
 ### Día 3 (27.01.2023)
 
-<!-- ##### Telegram
+##### Telegram
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/kf0D5Gua4hk"
+  src="https://www.youtube-nocookie.com/embed/0Jdgu4WB5eA"
   frameborder="0" allowfullscreen>
 </iframe>
 
-##### Zoom
+<!-- ##### Zoom
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
