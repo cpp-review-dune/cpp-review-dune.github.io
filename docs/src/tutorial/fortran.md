@@ -80,3 +80,21 @@ $ sudo pacman -Syu --noconfirm <package>
 </iframe>
 
 ### Día 4 (30.01.2023)
+
+##### Telegram
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/Xg_xhHXThjU"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<!-- ##### Zoom
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/Xg_xhHXThjU"
+  frameborder="0" allowfullscreen>
+</iframe> -->
+
+### Día 5 (01.02.2023)
