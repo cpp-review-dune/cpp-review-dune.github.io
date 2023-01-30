@@ -71,12 +71,12 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
-<!-- ##### Zoom
+##### Zoom
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/kf0D5Gua4hk"
+  src="https://www.youtube-nocookie.com/embed/A20s92NXEic"
   frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
 
 ### Día 4 (30.01.2023)
