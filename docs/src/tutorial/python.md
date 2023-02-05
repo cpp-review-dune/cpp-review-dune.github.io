@@ -230,3 +230,31 @@ y lo ayudaremos a resolverlo.
 
 * Carlos Aznarán [caznaranl@uni.pe](mailto:caznaranl@uni.pe) (instructor)
 * Alessandri Canchoa [canchoa@lamolina.edu.pe](mailto:canchoa@lamolina.edu.pe) (coordinador)
+
+<details>
+  <summary>
+  PIT vídeos
+  </summary>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/LQ7Ztugz1_0"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/in8CCNvUMXo"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/zYzjkuWMhwM"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+- [](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [](https://pynative.com/python/object-oriented-programming)
+
+</details>

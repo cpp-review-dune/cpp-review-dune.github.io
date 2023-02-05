@@ -115,6 +115,8 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
+- [Sesión 5](https://murena.io/s/mDkcwiHijjYLaLT)
+
 ### Día 6 (01.02.2023)
 
 ##### Telegram
@@ -132,6 +134,8 @@ $ sudo pacman -Syu --noconfirm <package>
   src="https://www.youtube-nocookie.com/embed/KSGF7zOgww8"
   frameborder="0" allowfullscreen>
 </iframe>
+
+- [Sesión 6](https://murena.io/s/gT7i4oBCxSfCrSH)
 
 ### Día 7 (03.02.2023)
 
