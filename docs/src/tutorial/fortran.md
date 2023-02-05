@@ -143,14 +143,20 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
-<!-- ##### Zoom
+##### Zoom
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/KSGF7zOgww8"
+  src="https://www.youtube-nocookie.com/embed/seRvdmShB_w"
   frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
 
 ### Día 7 (06.02.2023)
 
 ##### Telegram
+
+<!-- <iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/YU9C1CDzI-A"
+  frameborder="0" allowfullscreen>
+</iframe> -->
