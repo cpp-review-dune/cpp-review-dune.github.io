@@ -281,6 +281,7 @@ $$
 - [Fundamentals of Differential Equations by R. Kent Nagle](https://murena.io/s/R2XijBkejPH82EY)
 - [Partial Differential Equations in Action by Sandro Salsa](https://www.sgo.fi/~j/baylie/Partial%20Differential%20Equations%20in%20Action%20-%20From%20Modelling%20to%20Theory%20-%20S.%20Salsa%20(Springer,%202008)%20WW.pdf)
 - [artial Differential Equations: An Introduction by Walter A. Strauss](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Walter-A-Strauss-Partial-differential-equations-_-an-introduction-Wiley-2009.pdf)
+- [Numerical Models for Differential Problems by Alfio Quarteroni](https://murena.io/s/qFrB8TSGMP8No8r)
 <!-- https://stemjock.com/strausspde2e.htm -->
 
 <details>
