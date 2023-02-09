@@ -275,13 +275,14 @@ $$
 - [An Introduction to Partial Differential Equations with MATLAB by Matthew P. Coleman](https://perhuaman.files.wordpress.com/2014/07/ecuaciones-diferenciales-matlab-matthew-p-coleman.pdf). Páginas 54-58, 62-65, 138-146, 155, 157, 159-160, 195-201, 250, 378-380, 390-397, 414-421, 439-455, 556, 588, 593, 596-597.
 - [Lecture notes based on L.C.Evans’s textbook, by Baisheng Yan](https://users.math.msu.edu/users/yanb/847full-note.pdf). Páginas 65-82.
 - Math 124A/215A by Viktor Grigoryan. Páginas [1-7](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec6.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec11.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec13.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec14.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec16A.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec17.pdf), [1-4](https://web.math.ucsb.edu/~grigoryan/124A/lecs/lec18.pdf).
-- [Vector Analysis and an introduction to tensor analysis by Murray R. Spiegel](https://www.mymathscloud.com/api/download/modules/University/Textbooks/calculus-vector/3)Schaums%20Vector%20Analysis.pdf?id=48928181)
+- [Vector Analysis and an introduction to tensor analysis by Murray R. Spiegel](https://www.mymathscloud.com/api/download/modules/University/Textbooks/calculus-vector/3Schaums%20Vector%20Analysis.pdf?id=48928181)
 - [A first course in partial differential equations by Russell L. Herman](http://people.uncw.edu/hermanr/pde2/PDE2notes/PDE1_Main.pdf)
 - [Applied Partial Differential Equations by J. David Logan](https://murena.io/s/iS2cPpoPJf99dAp)
 - [Fundamentals of Differential Equations by R. Kent Nagle](https://murena.io/s/R2XijBkejPH82EY)
 - [Partial Differential Equations in Action by Sandro Salsa](https://www.sgo.fi/~j/baylie/Partial%20Differential%20Equations%20in%20Action%20-%20From%20Modelling%20to%20Theory%20-%20S.%20Salsa%20(Springer,%202008)%20WW.pdf)
-- [artial Differential Equations: An Introduction by Walter A. Strauss](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Walter-A-Strauss-Partial-differential-equations-_-an-introduction-Wiley-2009.pdf)
+- [Partial Differential Equations: An Introduction by Walter A. Strauss](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Walter-A-Strauss-Partial-differential-equations-_-an-introduction-Wiley-2009.pdf)
 - [Numerical Models for Differential Problems by Alfio Quarteroni](https://murena.io/s/qFrB8TSGMP8No8r)
+- [Fourier Analysis: An introduction by Elias M. Stein and Rami Shakarchi](http://kryakin.site/am2/Stein-Shakarchi-1-Fourier_Analysis.pdf)
 <!-- https://stemjock.com/strausspde2e.htm -->
 
 <details>
