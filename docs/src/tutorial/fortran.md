@@ -175,12 +175,22 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe> -->
 
-### Día 8 (10.02.2023)
+### Día 9 (10.02.2023)
 
 ##### Telegram
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/t-8MWDowTNY"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+##### Zoom
+
 <!-- <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/xt_rU7nH0VQ"
+  src="https://www.youtube-nocookie.com/embed/t-8MWDowTNY"
   frameborder="0" allowfullscreen>
 </iframe> -->
+
+### Día 10 (13.02.2023)
