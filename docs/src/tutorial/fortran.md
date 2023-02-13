@@ -155,7 +155,7 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Día 7 (06.02.2023)
+### Día 8 (06.02.2023)
 
 ##### Zoom
 
@@ -165,17 +165,21 @@ $ sudo pacman -Syu --noconfirm <package>
   frameborder="0" allowfullscreen>
 </iframe>
 
-### Día 8 (08.02.2023)
+- [Sesión 7](https://murena.io/s/8mo3sHG4aRk4pkm)
+
+### Día 9 (08.02.2023)
 
 ##### Zoom
 
-<!-- <iframe width="610" height="350"
+<iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
-  src="https://www.youtube-nocookie.com/embed/xt_rU7nH0VQ"
+  src="https://www.youtube-nocookie.com/embed/AvzwvBM9Slo"
   frameborder="0" allowfullscreen>
-</iframe> -->
+</iframe>
 
-### Día 9 (10.02.2023)
+- [Sesión 8](https://murena.io/s/f2Qa2654Xx2xp4X)
+
+### Día 10 (10.02.2023)
 
 ##### Telegram
 
@@ -187,10 +191,18 @@ $ sudo pacman -Syu --noconfirm <package>
 
 ##### Zoom
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/fSGq_5G2pMs"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+### Día 11 (13.02.2023)
+
+##### Telegram
+
 <!-- <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
   src="https://www.youtube-nocookie.com/embed/t-8MWDowTNY"
   frameborder="0" allowfullscreen>
 </iframe> -->
-
-### Día 10 (13.02.2023)
