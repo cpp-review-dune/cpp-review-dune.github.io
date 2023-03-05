@@ -266,6 +266,30 @@ y lo ayudaremos a resolverlo.
   frameborder="0" allowfullscreen>
 </iframe>
 
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/zecG5cM1O94"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/hKuWM-K1r7E"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/WNCBTwcAPgc"
+  frameborder="0" allowfullscreen>
+</iframe>
+
+<iframe width="610" height="350"
+  sandbox="allow-same-origin allow-scripts allow-popups"
+  src="https://www.youtube-nocookie.com/embed/_Kk6yMk9TNI"
+  frameborder="0" allowfullscreen>
+</iframe>
+
 - [](https://numpy.org/doc/stable/user/absolute_beginners.html)
 - [](https://pynative.com/python/object-oriented-programming)
 
