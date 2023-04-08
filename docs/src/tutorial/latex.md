@@ -1,6 +1,6 @@
 # [LaTeX Workshop 🇺🇸](https://www.ourfa2m2.org)
 
-![ema-2022](https://lh3.googleusercontent.com/UqdocSkBOAHsAYuzDwBFCGJWtFtsdvwxfTyVrmHDDve5PQIFabGOFeEfiA9JN8kaiBbNd4usebUFe8flm1rOCsPlCjgBPeGWyi2UcyawkyDsATBaoOSE3c7U0l3qmqMtKQ=w1280)
+![ema-2022](https://user-images.githubusercontent.com/21283014/230741801-9fc01d91-3cb4-46d4-9ff0-28dcef39cdd6.png)
 
 ### Parte I
 
