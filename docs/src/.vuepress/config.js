@@ -92,6 +92,7 @@ module.exports = {
             "waves",
             "school",
             "fortran",
+            "latex",
           ],
         },
       ],
