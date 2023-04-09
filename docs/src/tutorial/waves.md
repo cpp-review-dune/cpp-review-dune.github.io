@@ -283,6 +283,7 @@ $$
 - [Partial Differential Equations: An Introduction by Walter A. Strauss](https://s2pnd-matematika.fkip.unpatti.ac.id/wp-content/uploads/2019/03/Walter-A-Strauss-Partial-differential-equations-_-an-introduction-Wiley-2009.pdf)
 - [Numerical Models for Differential Problems by Alfio Quarteroni](https://murena.io/s/qFrB8TSGMP8No8r)
 - [Fourier Analysis: An introduction by Elias M. Stein and Rami Shakarchi](http://kryakin.site/am2/Stein-Shakarchi-1-Fourier_Analysis.pdf)
+- [A first course in Partial Differential Equations with complex variables and transform methods by H. F. Weinberger](http://sharif.ir/~moosavi/A%20First%20Course%20In%20Partial%20Differential%20Equations%20-%20H%20F%20Weinberger%20-%20Dover%20Publications.pdf)
 <!-- https://stemjock.com/strausspde2e.htm -->
 
 <details>
