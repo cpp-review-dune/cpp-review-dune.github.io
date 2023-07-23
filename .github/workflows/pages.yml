@@ -38,7 +38,7 @@ jobs:
           tar -I zstd -xvf HDNUM_DOCS.tar.zst
           OUTPUT_DIR=docs/src/.vuepress/dist/files
           mkdir -p $OUTPUT_DIR
-          wget https://docs.paraview.org/_/downloads/en/latest/pdf -O $OUTPUT_DIR/docs-paraview-org-en-latest.pdf
+          wget https://docs.paraview.org/_/downloads/en/latest/pdf/ -O $OUTPUT_DIR/docs-paraview-org-en-latest.pdf
           wget --no-check-certificate https://elib.uni-stuttgart.de/bitstream/11682/9377/1/simtech-tr2017-1_coupling-dumux-and-pdelab-to-investigate-evaporation.pdf -O $OUTPUT_DIR/simtech-tr2017-1_coupling-dumux-and-pdelab-to-investigate-evaporation.pdf
           mv doc/html $OUTPUT_DIR/hdnum
           mv tutorial/hdnum.pdf $OUTPUT_DIR
