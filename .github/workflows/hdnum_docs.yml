@@ -38,15 +38,13 @@ jobs:
             mkdir -p /work/tutorial/EPS && curl -o /work/tutorial/EPS/iwrlogo-klein.pdf https://raw.githubusercontent.com/cpp-review-dune/hdnum/6dc20dc97574d5361deb81f197804364359baf2b/tutorial/EPS/iwrlogo-klein.pdf
             cat > /work/tutorial/hdnum-tutorial-beamer.tex <<EOF
             \documentclass[ignorenonframetext,12pt]{beamer} 
-            \usepackage[ngerman]{babel} 
-            \usepackage[T1]{fontenc} 
-            \usepackage[utf8]{inputenc} 
-            \input{hdnum-tutorial-main} 
+            \usepackage[ngerman]{babel}
+            \usepackage[T1]{fontenc}
+            \input{hdnum-tutorial-main}
             EOF
             cat > /work/tutorial/hdnum-tutorial-article.tex <<EOF
             \documentclass[12pt,a4paper,DIV12,oneside,headings=normal,bibliography=totoc,headsepline=false,headinclude]{scrartcl}
             \usepackage[ngerman]{babel}
-            \usepackage[utf8]{inputenc}
             \usepackage[T1]{fontenc}
             \usepackage[envcountsect,noamsthm]{beamerarticle}
             \usepackage{amsthm}
