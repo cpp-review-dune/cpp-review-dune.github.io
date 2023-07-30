@@ -152,15 +152,13 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 ### Arch Linux o derivadas
 
-Instale los paquetes [`python-pytorch`](https://archlinux.org/packages/extra/x86_64/python-pytorch/),
-[`python-matplotlib`](https://archlinux.org/packages/extra/x86_64/python-matplotlib) y
-[`python-scipy`](https://archlinux.org/packages/extra/x86_64/python-scipy)
+Instale el paquete [`python-pytorch`](https://archlinux.org/packages/extra/x86_64/python-pytorch)
 del repositorio `[extra]`.
 Además de un [editor de código](https://wiki.archlinux.org/title/List_of_applications#Python_IDEs).
 
 ```console
 $ sudo pacman -Syu
-$ sudo pacman -S python-pytorch python-matplotlib python-scipy --noconfirm
+$ sudo pacman -S python-pytorch --noconfirm
 ```
 
 Para otras distribuciones Linux o sistemas Windows o macOS vea
