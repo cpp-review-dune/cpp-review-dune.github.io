@@ -76,7 +76,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-06.pdf)
 - [Pad de apuntes](https://hackmd.io/-KLWqUZGTsilTAiT7Vk7sA?view)
-- [Cuaderno](https://colab.research.google.com/drive/1If-vPq-4TkKbeZ8LrKOwCEiEchjI7XHM?usp=sharing)
+- [Cuaderno](https://github.com/cpp-review-dune/python/blob/main/src/taller/06_11_2022.ipynb)
 - [Ejercicios](https://cpp-review-dune.github.io/python/ex1.pdf)
 
 #### Grabación
@@ -97,7 +97,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-13.pdf)
 - [Pad de apuntes](https://hackmd.io/YRGskcW4TKekjiqt-ZHr1Q?view)
-- [Cuaderno](https://colab.research.google.com/drive/1zXTUP1pIWkrdujbWygXAgCsuoi8LSSZM?usp=sharing)
+- [Cuaderno](https://github.com/cpp-review-dune/python/blob/main/src/taller/13_11_2022.ipynb)
 
 #### Grabación
 
@@ -117,7 +117,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-20.pdf)
 - [Pad de apuntes](https://hackmd.io/pMMQskIlSOCd7ZY5OCydgQ?view)
-- [Cuaderno](https://colab.research.google.com/drive/1HdoWUX9GUQSw2nwmRNoZEXP5FqxlqbTf?usp=sharing)
+- [Cuaderno](https://github.com/cpp-review-dune/python/blob/main/src/taller/20_11_2022.ipynb)
 
 #### Grabación
 
@@ -137,7 +137,7 @@ como Telegram Desktop para preguntar en el canal del taller.
 
 - [Diapositiva](https://cpp-review-dune.github.io/python/2022-11-27.pdf)
 - [Pad de apuntes](https://hackmd.io/zLL_5AAXQBuR_DjJVVxgSg?edit)
-- [Cuaderno](https://colab.research.google.com/drive/1lKqv6s3JgUsvvsaFcAueh1nS7uiUimWz?usp=sharing)
+- [Cuaderno](https://github.com/cpp-review-dune/python/blob/main/src/taller/27_11_2022.ipynb)
 - [Ejercicios](https://cpp-review-dune.github.io/python/ex2.pdf)
 
 #### Grabación
