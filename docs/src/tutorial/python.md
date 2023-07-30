@@ -217,7 +217,7 @@ la mejora del uso de excepciones y su rapidez.
 
 Estos libros tienen licencia Creative Commons por lo que se puede redistribuir libremente.
 
-- [Python para todos](https://duenaslerin.com/tico2/pdfs/python-para-todos.pdf)
+- [El Libro de Python](https://ellibrodepython.com)
 - [Python® Notes for Professionals book](https://books.goalkicker.com/PythonBook/PythonNotesForProfessionals.pdf)
 - [Introduction to Engineering and Scientific Computing with Python](https://murena.io/s/9MqNY68QbBeBLyn)
 
@@ -291,7 +291,7 @@ y lo ayudaremos a resolverlo.
   frameborder="0" allowfullscreen>
 </iframe>
 
-- [](https://numpy.org/doc/stable/user/absolute_beginners.html)
-- [](https://pynative.com/python/object-oriented-programming)
+- [NumPy: the absolute basics for beginners](https://numpy.org/doc/stable/user/absolute_beginners.html)
+- [Python Object-Oriented Programming (OOP)](https://pynative.com/python/object-oriented-programming)
 
 </details>
