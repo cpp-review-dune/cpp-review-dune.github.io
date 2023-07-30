@@ -6,7 +6,7 @@
 
 <!--
 Es común que los software escritos en lenguajes de bajo nivel
-posean bindings para diversos propósitos como la
+tengan bindings para diversos propósitos como la
 [creación de mallas de elementos finitos](https://pypi.org/project/pygmsh),
 [simulaciones de dinámica de fluidos](https://tum-pbs.github.io/PhiFlow/Math_Introduction.html)
 o [visualización](https://kitware.github.io/vtk-examples/site/Python),
@@ -19,7 +19,7 @@ manejo de excepciones y archivos en Python.
 
 Este taller tiene los siguientes objetivos:
 
-* Practicar la implementación de funciones y clases con la resolución de una lista de ejercicios.
+* Practicar la implementación de funciones y clases en la resolución de una lista de ejercicios.
 * Al término del taller, estará listo para explorar otros módulos de
 Python como [DUNE](https://www.dune-project.org),
 [FEniCS](https://fenicsproject.org) o
@@ -42,16 +42,16 @@ La sala virtual _estará abierta desde las 07:40 a.m._
 ## Inscripción
 
 ~~La inscripción está disponible hasta el _viernes 4 de noviembre_
-a través del [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8)~~.
+en el [formulario de inscripción](https://forms.gle/fkFEvbZWLGRtmVkJ8)~~.
 
 El formulario de inscripción se **cerró el día viernes 4 de noviembre a las 2:00 p.m.**
 
 Gracias por su interés 😄 y esperamos seguir aprendiento Python
-después de las clases.
+después del taller.
 
 ## Prerrequisitos
 
-Para los ejercicios prácticos, necesitarás una instalación de
+Para los ejercicios, necesitarás de
 * un [navegador web](https://wiki.archlinux.org/title/List_of_applications#Graphical)
 para ingresar a [Google Colaboratory](https://colab.research.google.com),
 * un cliente de [Zoom Meetings](https://aur.archlinux.org/packages/zoom)
@@ -168,7 +168,8 @@ Para otras distribuciones Linux o sistemas Windows o macOS vea
 
 ## Documentación
 
-El día 24 de octubre del 2022 se liberó la versión 3.11 que destaca la mejora del uso de excepciones y su rapidez.
+El día 24 de octubre del 2022 se liberó la versión 3.11.0 que destaca
+la mejora del uso de excepciones y su rapidez.
 
 <iframe width="610" height="350"
   sandbox="allow-same-origin allow-scripts allow-popups"
@@ -181,35 +182,35 @@ El día 24 de octubre del 2022 se liberó la versión 3.11 que destaca la mejora
   La documentación de este lenguaje la puede encontrar a través de manuales PDF expandiendo aquí.
   </summary>
 
-- [The Python/C API Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/c-api.pdf)
-- [Distributing Python Modules Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/distributing.pdf)
-- [Extending and Embedding Python Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/extending.pdf)
-- [Python Frequently Asked Questions Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/faq.pdf)
-- [Prácticas recomendadas para las anotaciones Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/annotations.pdf)
-- [Tutorial de Argparse Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-argparse.pdf)
-- [How-To Argument Clinic Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-clinic.pdf)
-- [Portar módulos de extensión a Python 3 Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-cporting.pdf)
-- [Programación de Curses con Python Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-curses.pdf)
-- [Guía práctica de uso de los descriptores Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-descriptor.pdf)
-- [Enum HOWTO Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-enum.pdf)
-- [HOWTO - Programación funcional Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-functional.pdf)
-- [Instrumentación de CPython con DTrace y SystemTap Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-instrumentation.pdf)
-- [Introducción al modulo ipaddress Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-ipaddress.pdf)
-- [Isolating Extension Modules Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-isolating-extensions.pdf)
-- [Libro de recetas de Logging Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-logging-cookbook.pdf)
-- [HOWTO Hacer Registros (Logging) Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-logging.pdf)
-- [Portando código de Python 2 a Python 3 Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-pyporting.pdf)
-- [Expresiones regulares COMOS (HOWTO) Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-regex.pdf)
-- [HOW TO - Programación con sockets Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-sockets.pdf)
-- [HOW TO - Ordenar Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-sorting.pdf)
-- [CÓMO (HOWTO) Unicode Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-unicode.pdf)
-- [HOWTO - Cómo obtener recursos de Internet con el paquete urllib Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/howto-urllib2.pdf)
-- [Installing Python Modules Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/installing.pdf)
-- [The Python Library Reference Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/library.pdf)
-- [The Python Language Reference Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/reference.pdf)
-- [Python Tutorial Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/tutorial.pdf)
-- [Python Setup and Usage Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/using.pdf)
-- [What’s New in Python Versión 3.11.0](https://cpp-review-dune.github.io/python/docs-pdf/whatsnew.pdf)
+- [The Python/C API Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/c-api.pdf)
+- [Distributing Python Modules Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/distributing.pdf)
+- [Extending and Embedding Python Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/extending.pdf)
+- [Python Frequently Asked Questions Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/faq.pdf)
+- [Prácticas recomendadas para las anotaciones Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/annotations.pdf)
+- [Tutorial de Argparse Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-argparse.pdf)
+- [How-To Argument Clinic Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-clinic.pdf)
+- [Portar módulos de extensión a Python 3 Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-cporting.pdf)
+- [Programación de Curses con Python Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-curses.pdf)
+- [Guía práctica de uso de los descriptores Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-descriptor.pdf)
+- [Enum HOWTO Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-enum.pdf)
+- [HOWTO - Programación funcional Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-functional.pdf)
+- [Instrumentación de CPython con DTrace y SystemTap Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-instrumentation.pdf)
+- [Introducción al modulo ipaddress Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-ipaddress.pdf)
+- [Isolating Extension Modules Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-isolating-extensions.pdf)
+- [Libro de recetas de Logging Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-logging-cookbook.pdf)
+- [HOWTO Hacer Registros (Logging) Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-logging.pdf)
+- [Portando código de Python 2 a Python 3 Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-pyporting.pdf)
+- [Expresiones regulares COMOS (HOWTO) Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-regex.pdf)
+- [HOW TO - Programación con sockets Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-sockets.pdf)
+- [HOW TO - Ordenar Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-sorting.pdf)
+- [CÓMO (HOWTO) Unicode Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-unicode.pdf)
+- [HOWTO - Cómo obtener recursos de Internet con el paquete urllib Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/howto-urllib2.pdf)
+- [Installing Python Modules Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/installing.pdf)
+- [The Python Library Reference Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/library.pdf)
+- [The Python Language Reference Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/reference.pdf)
+- [Python Tutorial Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/tutorial.pdf)
+- [Python Setup and Usage Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/using.pdf)
+- [What’s New in Python Versión 3.11.4](https://cpp-review-dune.github.io/python/docs-pdf/whatsnew.pdf)
 </details>
 
 ## Libros de introducción a Python
