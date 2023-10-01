@@ -264,7 +264,7 @@ $$
 
 ### Referencias
 
-- [Partial Differential Equations: Second Edition by Lawrence C. Evans](http://home.ustc.edu.cn/~xushijie/pdf/textbooks/pde-evans.pdf)
+- [Partial Differential Equations: Second Edition by Lawrence C. Evans](https://math24.files.wordpress.com/2013/02/partial-differential-equations-by-evans.pdf)
 - [Advanced Modern Engineering Mathematics by Glyn James](http://www.ifuap.buap.mx/~omeza/assets/libro.pdf)
 - [Advanced Engineering Mathematics by Dennis Zill](https://elasticbeanstalk-us-east-2-344375731421.s3.us-east-2.amazonaws.com/StudyChat/Dennis-G.-Zill-Advanced-Engineering-Mathematics-2016-Jones-Bartlett.pdf)
 - [Advanced Engineering Mathematics by Peter V. O'Neil](https://drspmaths.files.wordpress.com/2020/01/advanced-engineering-mathematics-peter-v.-o-neil.pdf)
