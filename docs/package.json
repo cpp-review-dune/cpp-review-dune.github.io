@@ -1,7 +1,7 @@
 {
   "name": "cpp-review-dune.github.io",
   "version": "0.0.2",
-  "description": "Un repositorio donde compartir notas acerca de C++ con pdfs escritos en LaTeX.",
+  "description": "Un repositorio de notas acerca de C++ con pdfs escritos en LaTeX",
   "main": "index.js",
   "authors": {
     "name": "Oromion",
