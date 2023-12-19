@@ -2,7 +2,7 @@
 home: true
 title: Home
 heroImage: https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.svg?sanitize=true
-tagline: Un repositorio para compartir notas acerca de C++ escritos en LaTeX
+tagline: Un repositorio de notas acerca de C++ escritos en LaTeX
 actions:
   - text: Empezar →
     link: /tutorial/
@@ -26,9 +26,9 @@ footer: Made by C++ Review Dune with ❤️
   <CodeGroupItem title="Arch Linux" active>
 
 ```bash
-$ # Recommendation: Use the binaries from arch4edu repository
+$ # Suggestion: Use the binaries from arch4edu repository
 $ # Hint: curl -s https://gitlab.com/dune-archiso/dune-archiso.gitlab.io/-/raw/main/templates/add_arch4edu.sh | bash
-$ # See: https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
+$ # See for more details: https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux
 $ sudo pacman -Syu --noconfirm dumux
 ```
 
