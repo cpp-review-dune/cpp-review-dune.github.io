@@ -1,4 +1,4 @@
-# Installation of DUNE Numerics [v2.9.0](https://dune-project.org/releases/2.9.0)
+# Installation of DUNE Numerics [v2.9.1](https://dune-project.org/releases/2.9.1)
 
 Is pretty straightforward on [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.html)
 [(I use Arch btw)](https://wiki.archlinux.org/title/arch_is_the_best),
@@ -23,7 +23,7 @@ repository.
 $ sudo pacman -Syu dumux gmsh qtcreator --needed --noconfirm # with arch4edu
 ```
 
-## For Debian 12 or later
+## For Debian 13 or later
 
 ```console
 $ sudo apt update
@@ -31,7 +31,7 @@ $ sudo apt upgrade
 $ sudo apt install libdune-{<insert name module here without dune prefix>}-dev
 ```
 
-## For FreeBSD 13.1
+## For FreeBSD 14.0
 
 ```console
 $ pkg update
