@@ -1,0 +1,25 @@
+import{_ as t,r as o,o as r,c as i,b as s,w as a,F as u,a as e,d as n}from"./app.58b32fd1.js";const m={},d=e("h3",{id:"tan-facil-como-1-2-3",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#tan-facil-como-1-2-3","aria-hidden":"true"},"#"),n(" Tan f\xE1cil como 1, 2, 3")],-1),p=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[n("$ "),e("span",{class:"token comment"},"# Suggestion: Use the binaries from arch4edu repository"),n(`
+$ `),e("span",{class:"token comment"},"# Hint: curl -s https://gitlab.com/dune-archiso/dune-archiso.gitlab.io/-/raw/main/templates/add_arch4edu.sh | bash"),n(`
+$ `),e("span",{class:"token comment"},"# See for more details: https://github.com/arch4edu/arch4edu/wiki/Add-arch4edu-to-your-Archlinux"),n(`
+$ `),e("span",{class:"token function"},"sudo"),n(` pacman -Syu --noconfirm dumux
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br"),e("span",{class:"line-number"},"4"),e("br")])],-1),b=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[n("$ "),e("span",{class:"token comment"},"# Make sure you have the base-devel package group"),n(`
+$ `),e("span",{class:"token comment"},"# See: https://wiki.archlinux.org/title/Arch_User_Repository"),n(`
+$ `),e("span",{class:"token function"},"sudo"),n(" pacman -Syu --needed "),e("span",{class:"token function"},"git"),n(` base-devel
+`),e("span",{class:"token comment"},"# use any AUR helper and install a metapackage"),n(`
+$ yay -S dumux --noconfirm
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br"),e("span",{class:"line-number"},"4"),e("br"),e("span",{class:"line-number"},"5"),e("br")])],-1),h=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# refresh binary repositories"),n(`
+$ doas pkg update
+`),e("span",{class:"token comment"},"# upgrade the packages"),n(`
+$ doas pkg upgrade
+`),e("span",{class:"token comment"},"# pull database changes from FreshPorts"),n(`
+$ doas portsnap fetch
+`),e("span",{class:"token comment"},"# upgrade the packages from FreshPorts"),n(`
+$ doas portsnap upgrade
+`),e("span",{class:"token comment"},"# install"),n(`
+$ `),e("span",{class:"token builtin class-name"},"cd"),n(" /usr/ports/math/dune-common/ "),e("span",{class:"token operator"},"&&"),n(" doas "),e("span",{class:"token function"},"make"),n(),e("span",{class:"token function"},"install"),n(` clean
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br"),e("span",{class:"line-number"},"4"),e("br"),e("span",{class:"line-number"},"5"),e("br"),e("span",{class:"line-number"},"6"),e("br"),e("span",{class:"line-number"},"7"),e("br"),e("span",{class:"line-number"},"8"),e("br"),e("span",{class:"line-number"},"9"),e("br"),e("span",{class:"line-number"},"10"),e("br")])],-1),g=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# Working in progress, coming soon, by PrinceMachiavell"),n(`
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br")])],-1),k=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[n("$ "),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(` ar -f https://download.opensuse.org/repositories/science/openSUSE_Tumbleweed/science.repo
+$ `),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(` --gpg-auto-import-keys ref
+$ `),e("span",{class:"token function"},"sudo"),n(),e("span",{class:"token function"},"zypper"),n(),e("span",{class:"token function"},"install"),n(` -y dune-common-devel dune-common-doc dune-common-openmpi
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br"),e("span",{class:"line-number"},"2"),e("br"),e("span",{class:"line-number"},"3"),e("br")])],-1),_=e("div",{class:"language-bash ext-sh line-numbers-mode"},[e("pre",{class:"language-bash"},[e("code",null,[e("span",{class:"token comment"},"# someday, yes"),n(`
+`)])]),e("div",{class:"line-numbers","aria-hidden":"true"},[e("span",{class:"line-number"},"1"),e("br")])],-1);function f(v,x){const l=o("CodeGroupItem"),c=o("CodeGroup");return r(),i(u,null,[d,s(c,null,{default:a(()=>[s(l,{title:"Arch Linux",active:""},{default:a(()=>[p,b]),_:1}),s(l,{title:"FreeBSD"},{default:a(()=>[h]),_:1}),s(l,{title:"NixOS"},{default:a(()=>[g]),_:1}),s(l,{title:"openSUSE Tumbleweed"},{default:a(()=>[k]),_:1}),s(l,{title:"Plan 9"},{default:a(()=>[_]),_:1})]),_:1})],64)}var $=t(m,[["render",f],["__file","index.html.vue"]]);export{$ as default};

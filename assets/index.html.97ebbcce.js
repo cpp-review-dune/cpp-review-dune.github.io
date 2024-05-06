@@ -1,0 +1,1 @@
+const e={key:"v-286bfc17",path:"/videos/cpp/12-pointers/",title:"12. Pointers and References",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/12-pointers/README.md"};export{e as data};

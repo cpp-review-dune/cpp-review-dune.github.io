@@ -1,0 +1,1 @@
+const a={key:"v-6b4fdfa9",path:"/videos/cpp/20-stl/",title:"20. The Standard Template Library (STL)",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/20-stl/README.md"};export{a as data};

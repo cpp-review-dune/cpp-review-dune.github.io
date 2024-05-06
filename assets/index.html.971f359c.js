@@ -1,0 +1,1 @@
+const e={key:"v-6e2aa90b",path:"/videos/zoom/peertube/",title:"peertube",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/zoom/peertube/README.md"};export{e as data};

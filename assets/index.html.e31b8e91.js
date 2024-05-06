@@ -1,0 +1,1 @@
+const a={key:"v-41786335",path:"/videos/cpp/7-arrays/",title:"7. Arrays and Vectors",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/7-arrays/README.md"};export{a as data};

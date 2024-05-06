@@ -1,0 +1,1 @@
+const t={key:"v-3b9759fa",path:"/videos/cpp/9-controlling/",title:"9. Controlling Program Flow",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/9-controlling/README.md"};export{t as data};

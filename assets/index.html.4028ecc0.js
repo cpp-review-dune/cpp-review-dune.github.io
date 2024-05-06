@@ -1,0 +1,1 @@
+const a={key:"v-17d0aaf0",path:"/videos/cpp/2-installation/",title:"2. Installation and Setup",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/2-installation/README.md"};export{a as data};

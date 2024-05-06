@@ -1,0 +1,1 @@
+const t={key:"v-a6b92df6",path:"/tutorial/using-gitpod.html",title:"Using Gitpod",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Requisitos",slug:"requisitos",children:[]}],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"tutorial/using-gitpod.md"};export{t as data};

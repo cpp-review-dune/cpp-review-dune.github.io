@@ -1,0 +1,1 @@
+const t={key:"v-639495b8",path:"/tutorial/",title:"Tutoriales",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Water infiltration problem",slug:"water-infiltration-problem",children:[]}],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"tutorial/README.md"};export{t as data};

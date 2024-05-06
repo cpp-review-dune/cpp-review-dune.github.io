@@ -1,0 +1,1 @@
+const e={key:"v-2170ebd4",path:"/videos/cpp/21-bonus/",title:"21. Bonus Material and Source Code",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/21-bonus/README.md"};export{e as data};

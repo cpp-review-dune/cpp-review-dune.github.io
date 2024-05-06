@@ -1,0 +1,1 @@
+const e={key:"v-b654f478",path:"/videos/cpp/15-inheritance/",title:"15. Inheritance",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/15-inheritance/README.md"};export{e as data};

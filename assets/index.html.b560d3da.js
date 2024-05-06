@@ -1,0 +1,1 @@
+const e={key:"v-e4534952",path:"/videos/cpp/11-functions/",title:"11. Functions",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/11-functions/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-56884de4",path:"/videos/cpp/4-getting/",title:"4. Getting Started",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/4-getting/README.md"};export{t as data};

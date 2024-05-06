@@ -1,0 +1,1 @@
+const t={key:"v-5f780c72",path:"/tutorial/hdnum.html",title:"HDNUM docs",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"tutorial/hdnum.md"};export{t as data};

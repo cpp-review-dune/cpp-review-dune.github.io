@@ -1,0 +1,1 @@
+const e={key:"v-e2b9c464",path:"/videos/cpp/19-io/",title:"19. IO and Streams",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/19-io/README.md"};export{e as data};

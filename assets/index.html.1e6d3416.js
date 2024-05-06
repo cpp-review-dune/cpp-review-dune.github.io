@@ -1,0 +1,1 @@
+const e={key:"v-08636650",path:"/videos/cpp/3-curriculum/",title:"3. Curriculum Overview",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/3-curriculum/README.md"};export{e as data};

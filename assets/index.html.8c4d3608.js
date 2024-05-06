@@ -1,0 +1,1 @@
+const a={key:"v-a09fccfe",path:"/videos/cpp/10-characters/",title:"9. Characters and Strings",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/10-characters/README.md"};export{a as data};

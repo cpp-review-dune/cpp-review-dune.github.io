@@ -1,0 +1,1 @@
+const e={key:"v-791a2ebc",path:"/videos/cpp/18-exception/",title:"18. Exception Handling",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/18-exception/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const e={key:"v-1b92015e",path:"/videos/cpp/5-structure/",title:"5. Structure of a C++ Program",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/5-structure/README.md"};export{e as data};

@@ -1,0 +1,1 @@
+const a={key:"v-7fd55739",path:"/videos/cpp/6-variables/",title:"6. Variables and Constants",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/6-variables/README.md"};export{a as data};

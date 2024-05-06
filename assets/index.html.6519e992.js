@@ -1,0 +1,1 @@
+const e={key:"v-7fb897ca",path:"/videos/cpp/16-polymorphism/",title:"16. Polymorphism",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/16-polymorphism/README.md"};export{e as data};

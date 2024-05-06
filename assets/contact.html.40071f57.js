@@ -1,0 +1,1 @@
+const t={key:"v-6d34f632",path:"/contact.html",title:"Cont\xE1ctanos",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"contact.md"};export{t as data};

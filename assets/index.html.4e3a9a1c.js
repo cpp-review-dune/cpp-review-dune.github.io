@@ -1,0 +1,1 @@
+const a={key:"v-1953c9a3",path:"/videos/cpp/17-smart/",title:"17. Smart Pointers",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/17-smart/README.md"};export{a as data};

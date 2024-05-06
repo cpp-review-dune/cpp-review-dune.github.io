@@ -1,0 +1,1 @@
+const e={key:"v-58079c8b",path:"/videos/cpp/14-operator/",title:"14. Operator Overloading",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/14-operator/README.md"};export{e as data};

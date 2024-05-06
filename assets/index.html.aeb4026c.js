@@ -1,0 +1,1 @@
+const e={key:"v-3ec2334c",path:"/videos/cpp/8-statements/",title:"8. Statements and Operators",lang:"en-US",frontmatter:{sidebar:"auto"},excerpt:"",headers:[],git:{updatedTime:1714954325e3,contributors:[{name:"Carlos Aznar\xE1n",email:"caznaranl@uni.pe",commits:1}]},filePathRelative:"videos/cpp/8-statements/README.md"};export{e as data};
